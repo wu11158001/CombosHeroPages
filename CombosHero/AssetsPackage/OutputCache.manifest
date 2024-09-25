@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2753872200
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assetspackage_assets_hotfixassets_prefab_view_common.bundle
+      Dependencies:
+        Dependency_0: assetspackage_share_assets_usingassets_tmpfonts_material.bundle
+    Info_1:
+      Name: assetspackage_assets_hotfixassets_prefab_view_game.bundle
+      Dependencies:
+        Dependency_0: assetspackage_share_assets_usingassets_tmpfonts_material.bundle
+        Dependency_1: assetspackage_share_assets_usingassets_sprites_community.bundle
+    Info_2:
+      Name: assetspackage_assets_hotfixassets_prefab_view_lobby.bundle
+      Dependencies:
+        Dependency_0: assetspackage_share_assets_usingassets_tmpfonts_material.bundle
+        Dependency_1: assetspackage_share_assets_usingassets_sprites_community.bundle
+    Info_3:
+      Name: assetspackage_assets_hotfixassets_prefab_monsters.bundle
+      Dependencies:
+        Dependency_0: assetspackage_share_packages_com_unity_2d_sprite_editor_objectmenucreation_defaultassets_textures_v2.bundle
+    Info_4:
+      Name: assetspackage_assets_hotfixassets_prefab_gamearea.bundle
+      Dependencies:
+        Dependency_0: assetspackage_share_packages_com_unity_2d_sprite_editor_objectmenucreation_defaultassets_textures_v2.bundle
+    Info_5:
+      Name: assetspackage_assets_hotfixassets_scenes.bundle
+      Dependencies: {}
+    Info_6:
+      Name: assetspackage_assets_hotfixassets_exceldate.bundle
+      Dependencies: {}
+    Info_7:
+      Name: assetspackage_share_assets_usingassets_tmpfonts_material.bundle
+      Dependencies:
+        Dependency_0: assetspackage_unityshaders.bundle
+        Dependency_1: assetspackage_share_assets_usingassets_tmpfonts_fonts.bundle
+    Info_8:
+      Name: assetspackage_unityshaders.bundle
+      Dependencies: {}
+    Info_9:
+      Name: assetspackage_share_assets_usingassets_tmpfonts_fonts.bundle
+      Dependencies: {}
+    Info_10:
+      Name: assetspackage_share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle
+      Dependencies: {}
+    Info_11:
+      Name: assetspackage_share_assets_usingassets_sprites_community.bundle
+      Dependencies: {}
+    Info_12:
+      Name: assetspackage_share_packages_com_unity_2d_sprite_editor_objectmenucreation_defaultassets_textures_v2.bundle
+      Dependencies: {}

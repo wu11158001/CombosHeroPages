@@ -1,0 +1,445 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.1",
+        "UnityVersion": "2021.3.43f1",
+        "BuildDate": "2024/9/25 下午 04:31:55",
+        "BuildSeconds": 11,
+        "BuildTarget": 13,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "AssetsPackage",
+        "BuildPackageVersion": "2024-09-25-991",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "IgnoreDefaultType": true,
+        "AutoCollectShaders": true,
+        "EnableSharePackRule": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 28,
+        "MainAssetTotalCount": 15,
+        "AllBundleTotalCount": 13,
+        "AllBundleTotalSize": 25976229,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "TipMsgView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/TipMsgView.prefab",
+            "AssetGUID": "cdc2212d63506cb4891d4e04ec4856ed",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
+            "MainBundleSize": 6025,
+            "DependAssets": [
+                "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/UsingAssets/TMPFonts/Fonts/SourceHanSansTC-Medium.otf",
+                "Assets/UsingAssets/TMPFonts/Fonts/segoeui.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/UsingAssets/TMPFonts/Material/思源黑體-Medium.asset"
+            ]
+        },
+        {
+            "Address": "GameResultView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Game/GameResultView.prefab",
+            "AssetGUID": "db53943d7a1ec6c438815f5dcf9f2c17",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
+            "MainBundleSize": 15549,
+            "DependAssets": [
+                "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/UsingAssets/TMPFonts/Fonts/SourceHanSansTC-Medium.otf",
+                "Assets/UsingAssets/TMPFonts/Fonts/segoeui.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/UsingAssets/TMPFonts/Material/思源黑體-Medium.asset"
+            ]
+        },
+        {
+            "Address": "GameView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Game/GameView.prefab",
+            "AssetGUID": "b5cedf22c6ef9da4e93dac5f1c71b92a",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
+            "MainBundleSize": 15549,
+            "DependAssets": [
+                "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/UsingAssets/TMPFonts/Fonts/SourceHanSansTC-Medium.otf",
+                "Assets/UsingAssets/TMPFonts/Fonts/segoeui.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/UsingAssets/Sprites/Community/Copy.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/UsingAssets/TMPFonts/Material/思源黑體-Medium.asset"
+            ]
+        },
+        {
+            "Address": "SelectSkillsView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Game/SelectSkillsView.prefab",
+            "AssetGUID": "4c062a28050eb624396b96cbce1603e8",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
+            "MainBundleSize": 15549,
+            "DependAssets": [
+                "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/UsingAssets/TMPFonts/Fonts/SourceHanSansTC-Medium.otf",
+                "Assets/UsingAssets/TMPFonts/Fonts/segoeui.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/UsingAssets/TMPFonts/Material/思源黑體-Medium.asset"
+            ]
+        },
+        {
+            "Address": "LobbyView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Lobby/LobbyView.prefab",
+            "AssetGUID": "7009b447820dffb4ca8bb23f88a8f216",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
+            "MainBundleSize": 28909,
+            "DependAssets": [
+                "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/UsingAssets/TMPFonts/Fonts/SourceHanSansTC-Medium.otf",
+                "Assets/UsingAssets/TMPFonts/Fonts/segoeui.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/UsingAssets/TMPFonts/Material/思源黑體-Medium.asset"
+            ]
+        },
+        {
+            "Address": "SetNicknameView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Lobby/SetNicknameView.prefab",
+            "AssetGUID": "8d8f7f13e8900954b819cd484c582d36",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
+            "MainBundleSize": 28909,
+            "DependAssets": [
+                "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
+                "Assets/UsingAssets/Sprites/Community/Close.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/UsingAssets/TMPFonts/Fonts/SourceHanSansTC-Medium.otf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/UsingAssets/TMPFonts/Fonts/segoeui.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/UsingAssets/TMPFonts/Material/思源黑體-Medium.asset"
+            ]
+        },
+        {
+            "Address": "UserInfoView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Lobby/UserInfoView.prefab",
+            "AssetGUID": "da54bf41a4177f74f8f565f869e95402",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
+            "MainBundleSize": 28909,
+            "DependAssets": [
+                "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown Icon.psd",
+                "Assets/UsingAssets/Sprites/Community/Close.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/UsingAssets/TMPFonts/Fonts/SourceHanSansTC-Medium.otf",
+                "Assets/UsingAssets/TMPFonts/Fonts/segoeui.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/UsingAssets/Sprites/Community/Copy.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/UsingAssets/Sprites/Community/Edit.png",
+                "Assets/UsingAssets/TMPFonts/Material/思源黑體-Medium.asset"
+            ]
+        },
+        {
+            "Address": "M_Ice1",
+            "AssetPath": "Assets/HotFixAssets/Prefab/Monsters/M_Ice1.prefab",
+            "AssetGUID": "36ddadf022086a944b4d3f2c23910a07",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_monsters.bundle",
+            "MainBundleSize": 4333,
+            "DependAssets": [
+                "Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/v2/Square.png"
+            ]
+        },
+        {
+            "Address": "M_Physics1",
+            "AssetPath": "Assets/HotFixAssets/Prefab/Monsters/M_Physics1.prefab",
+            "AssetGUID": "fbc315f74ca5c77469d7a447423646d1",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_monsters.bundle",
+            "MainBundleSize": 4333,
+            "DependAssets": [
+                "Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/v2/Square.png"
+            ]
+        },
+        {
+            "Address": "GameArea",
+            "AssetPath": "Assets/HotFixAssets/Prefab/GameArea/GameArea.prefab",
+            "AssetGUID": "dd55de756cab54c42818b1a0cc6eced8",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_gamearea.bundle",
+            "MainBundleSize": 4367,
+            "DependAssets": [
+                "Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/v2/Square.png"
+            ]
+        },
+        {
+            "Address": "Game",
+            "AssetPath": "Assets/HotFixAssets/Scenes/Game.unity",
+            "AssetGUID": "3d9bb22772d8fa74780c3767b0984a8e",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_scenes.bundle",
+            "MainBundleSize": 8342,
+            "DependAssets": []
+        },
+        {
+            "Address": "Lobby",
+            "AssetPath": "Assets/HotFixAssets/Scenes/Lobby.unity",
+            "AssetGUID": "9707fa3271c12e141994db6861eb410a",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_scenes.bundle",
+            "MainBundleSize": 8342,
+            "DependAssets": []
+        },
+        {
+            "Address": "Language",
+            "AssetPath": "Assets/HotFixAssets/ExcelDate/Language.json",
+            "AssetGUID": "066656f125ee46046a7d63b8c9a85521",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
+            "MainBundleSize": 1949,
+            "DependAssets": []
+        },
+        {
+            "Address": "LevelMonster",
+            "AssetPath": "Assets/HotFixAssets/ExcelDate/LevelMonster.json",
+            "AssetGUID": "0b6ed7435081e314e9d3e335bfb4dc82",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
+            "MainBundleSize": 1949,
+            "DependAssets": []
+        },
+        {
+            "Address": "MonsterData",
+            "AssetPath": "Assets/HotFixAssets/ExcelDate/MonsterData.json",
+            "AssetGUID": "ba68b66492ea6c0408cedf13f33be5c2",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
+            "MainBundleSize": 1949,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
+            "FileName": "abb3db4b6e4b9c53793ae5e1e08c25d7.bundle",
+            "FileHash": "abb3db4b6e4b9c53793ae5e1e08c25d7",
+            "FileCRC": "761f81d1",
+            "FileSize": 6025,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assetspackage_share_assets_usingassets_tmpfonts_fonts.bundle",
+                "assetspackage_share_assets_usingassets_tmpfonts_material.bundle",
+                "assetspackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/Prefab/View/Common/TipMsgView.prefab"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
+            "FileName": "ae403956edb7897324cd58fd88611aec.bundle",
+            "FileHash": "ae403956edb7897324cd58fd88611aec",
+            "FileCRC": "989eda7c",
+            "FileSize": 15549,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assetspackage_share_assets_usingassets_sprites_community.bundle",
+                "assetspackage_share_assets_usingassets_tmpfonts_fonts.bundle",
+                "assetspackage_share_assets_usingassets_tmpfonts_material.bundle",
+                "assetspackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/Prefab/View/Game/GameResultView.prefab",
+                "Assets/HotFixAssets/Prefab/View/Game/GameView.prefab",
+                "Assets/HotFixAssets/Prefab/View/Game/SelectSkillsView.prefab"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
+            "FileName": "94b3b6b16a411a1d0ee945ce1d16bbf1.bundle",
+            "FileHash": "94b3b6b16a411a1d0ee945ce1d16bbf1",
+            "FileCRC": "94a311b4",
+            "FileSize": 28909,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assetspackage_share_assets_usingassets_sprites_community.bundle",
+                "assetspackage_share_assets_usingassets_tmpfonts_fonts.bundle",
+                "assetspackage_share_assets_usingassets_tmpfonts_material.bundle",
+                "assetspackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/Prefab/View/Lobby/LobbyView.prefab",
+                "Assets/HotFixAssets/Prefab/View/Lobby/SetNicknameView.prefab",
+                "Assets/HotFixAssets/Prefab/View/Lobby/UserInfoView.prefab"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_prefab_monsters.bundle",
+            "FileName": "ae01966afb07bb1ff95896b19a7a723e.bundle",
+            "FileHash": "ae01966afb07bb1ff95896b19a7a723e",
+            "FileCRC": "010aaefa",
+            "FileSize": 4333,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assetspackage_share_packages_com_unity_2d_sprite_editor_objectmenucreation_defaultassets_textures_v2.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/Prefab/Monsters/M_Ice1.prefab",
+                "Assets/HotFixAssets/Prefab/Monsters/M_Physics1.prefab"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_prefab_gamearea.bundle",
+            "FileName": "0909ef9644ad4985f2103e32995b3fa2.bundle",
+            "FileHash": "0909ef9644ad4985f2103e32995b3fa2",
+            "FileCRC": "7a146ff1",
+            "FileSize": 4367,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assetspackage_share_packages_com_unity_2d_sprite_editor_objectmenucreation_defaultassets_textures_v2.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/Prefab/GameArea/GameArea.prefab"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_scenes.bundle",
+            "FileName": "c9bce1ed82cb03a26a611a6feee7b383.bundle",
+            "FileHash": "c9bce1ed82cb03a26a611a6feee7b383",
+            "FileCRC": "10eeb891",
+            "FileSize": 8342,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/Scenes/Game.unity",
+                "Assets/HotFixAssets/Scenes/Lobby.unity"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
+            "FileName": "f6b47660e917286bdc9b938df342b053.bundle",
+            "FileHash": "f6b47660e917286bdc9b938df342b053",
+            "FileCRC": "7b30e23a",
+            "FileSize": 1949,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/ExcelDate/Language.json",
+                "Assets/HotFixAssets/ExcelDate/LevelMonster.json",
+                "Assets/HotFixAssets/ExcelDate/MonsterData.json"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_tmpfonts_material.bundle",
+            "FileName": "41e8457a1d6cc3fd62972f81b573f262.bundle",
+            "FileHash": "41e8457a1d6cc3fd62972f81b573f262",
+            "FileCRC": "d7e7ffad",
+            "FileSize": 10691128,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assetspackage_share_assets_usingassets_tmpfonts_fonts.bundle",
+                "assetspackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
+                "Assets/UsingAssets/TMPFonts/Material/思源黑體-Medium.asset"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_unityshaders.bundle",
+            "FileName": "677327c5893ddd6584e826e279bc0aae.bundle",
+            "FileHash": "677327c5893ddd6584e826e279bc0aae",
+            "FileCRC": "dc023f40",
+            "FileSize": 33640,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_tmpfonts_fonts.bundle",
+            "FileName": "7c064b57396756b1d46191057bd55e95.bundle",
+            "FileHash": "7c064b57396756b1d46191057bd55e95",
+            "FileCRC": "93d1cb0d",
+            "FileSize": 15160046,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/UsingAssets/TMPFonts/Fonts/SourceHanSansTC-Medium.otf",
+                "Assets/UsingAssets/TMPFonts/Fonts/segoeui.ttf"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+            "FileName": "0e03a8b69d5d5907105f7f7c44814091.bundle",
+            "FileHash": "0e03a8b69d5d5907105f7f7c44814091",
+            "FileCRC": "4924a259",
+            "FileSize": 8226,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown Icon.psd"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_community.bundle",
+            "FileName": "ed2700e18cd82f6010936cc86e338b0f.bundle",
+            "FileHash": "ed2700e18cd82f6010936cc86e338b0f",
+            "FileCRC": "d09879bf",
+            "FileSize": 9400,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/UsingAssets/Sprites/Community/Copy.png",
+                "Assets/UsingAssets/Sprites/Community/Close.png",
+                "Assets/UsingAssets/Sprites/Community/Edit.png"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_packages_com_unity_2d_sprite_editor_objectmenucreation_defaultassets_textures_v2.bundle",
+            "FileName": "73a593f1a8e14e1df3f175427b0be3fe.bundle",
+            "FileHash": "73a593f1a8e14e1df3f175427b0be3fe",
+            "FileCRC": "f741eed2",
+            "FileSize": 4315,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/v2/Square.png"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}
