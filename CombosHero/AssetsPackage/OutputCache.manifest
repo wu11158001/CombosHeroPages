@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2753872200
+CRC: 3521300827
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -25,28 +25,44 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: assetspackage_share_packages_com_unity_2d_sprite_editor_objectmenucreation_defaultassets_textures_v2.bundle
     Info_5:
+      Name: assetspackage_assets_hotfixassets_prefab_hero.bundle
+      Dependencies:
+        Dependency_0: assetspackage_share_packages_com_unity_2d_sprite_editor_objectmenucreation_defaultassets_textures_v2.bundle
+    Info_6:
+      Name: assetspackage_assets_hotfixassets_prefab_skillobj.bundle
+      Dependencies:
+        Dependency_0: assetspackage_share_packages_com_unity_2d_sprite_editor_objectmenucreation_defaultassets_textures_v2.bundle
+    Info_7:
+      Name: assetspackage_assets_hotfixassets_prefab_skillrange.bundle
+      Dependencies:
+        Dependency_0: assetspackage_share_packages_com_unity_2d_sprite_editor_objectmenucreation_defaultassets_textures_v2.bundle
+    Info_8:
       Name: assetspackage_assets_hotfixassets_scenes.bundle
       Dependencies: {}
-    Info_6:
+    Info_9:
       Name: assetspackage_assets_hotfixassets_exceldate.bundle
       Dependencies: {}
-    Info_7:
+    Info_10:
+      Name: assetspackage_assets_hotfixassets_album.bundle
+      Dependencies:
+        Dependency_0: assetspackage_share_assets_usingassets_sprites_community.bundle
+    Info_11:
       Name: assetspackage_share_assets_usingassets_tmpfonts_material.bundle
       Dependencies:
         Dependency_0: assetspackage_unityshaders.bundle
         Dependency_1: assetspackage_share_assets_usingassets_tmpfonts_fonts.bundle
-    Info_8:
+    Info_12:
       Name: assetspackage_unityshaders.bundle
       Dependencies: {}
-    Info_9:
+    Info_13:
       Name: assetspackage_share_assets_usingassets_tmpfonts_fonts.bundle
       Dependencies: {}
-    Info_10:
+    Info_14:
       Name: assetspackage_share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle
       Dependencies: {}
-    Info_11:
+    Info_15:
       Name: assetspackage_share_assets_usingassets_sprites_community.bundle
       Dependencies: {}
-    Info_12:
+    Info_16:
       Name: assetspackage_share_packages_com_unity_2d_sprite_editor_objectmenucreation_defaultassets_textures_v2.bundle
       Dependencies: {}
