@@ -1,0 +1,960 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "AssetsPackage",
+    "PackageVersion": "2024-10-15-167",
+    "AssetList": [
+        {
+            "Address": "Damage_MeshText",
+            "AssetPath": "Assets/HotFixAssets/Prefab/GameArea/Damage_MeshText.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "GameArea",
+            "AssetPath": "Assets/HotFixAssets/Prefab/GameArea/GameArea.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "MonsterObj",
+            "AssetPath": "Assets/HotFixAssets/Prefab/GameArea/MonsterObj.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "BurstBouncyBallObj",
+            "AssetPath": "Assets/HotFixAssets/Prefab/SkillObj/BurstBouncyBallObj.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "ChainLightningObj",
+            "AssetPath": "Assets/HotFixAssets/Prefab/SkillObj/ChainLightningObj.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "CoveringFireObj",
+            "AssetPath": "Assets/HotFixAssets/Prefab/SkillObj/CoveringFireObj.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "ElementalArrowObj_Fire",
+            "AssetPath": "Assets/HotFixAssets/Prefab/SkillObj/ElementalArrowObj_Fire.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "ElementalArrowObj_Ice",
+            "AssetPath": "Assets/HotFixAssets/Prefab/SkillObj/ElementalArrowObj_Ice.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "ElementalArrowObj_Lightnting",
+            "AssetPath": "Assets/HotFixAssets/Prefab/SkillObj/ElementalArrowObj_Lightnting.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "ElementalArrowObj_Physics",
+            "AssetPath": "Assets/HotFixAssets/Prefab/SkillObj/ElementalArrowObj_Physics.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "IceBallObj",
+            "AssetPath": "Assets/HotFixAssets/Prefab/SkillObj/IceBallObj.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "LaserObj",
+            "AssetPath": "Assets/HotFixAssets/Prefab/SkillObj/LaserObj.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "ThunderObj",
+            "AssetPath": "Assets/HotFixAssets/Prefab/SkillObj/ThunderObj.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "SkillRange_Circle",
+            "AssetPath": "Assets/HotFixAssets/Prefab/SkillRange/SkillRange_Circle.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "SkillRange_Square",
+            "AssetPath": "Assets/HotFixAssets/Prefab/SkillRange/SkillRange_Square.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "TipMsgView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/TipMsgView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "BossBonusView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Game/BossBonusView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "GamePauseView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Game/GamePauseView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "GameResultView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Game/GameResultView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "GameView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Game/GameView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "LearnedSkillView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Game/LearnedSkillView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "SelectSkillsView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Game/SelectSkillsView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "BattleView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Lobby/BattleView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "LobbyView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Lobby/LobbyView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "SetNicknameView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Lobby/SetNicknameView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "UserInfoView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Lobby/UserInfoView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "Game",
+            "AssetPath": "Assets/HotFixAssets/Scenes/Game.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Lobby",
+            "AssetPath": "Assets/HotFixAssets/Scenes/Lobby.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "Language",
+            "AssetPath": "Assets/HotFixAssets/ExcelDate/Language.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "LevelMonster",
+            "AssetPath": "Assets/HotFixAssets/ExcelDate/LevelMonster.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "MonsterData",
+            "AssetPath": "Assets/HotFixAssets/ExcelDate/MonsterData.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "MainSkillData",
+            "AssetPath": "Assets/HotFixAssets/ExcelDate/MainSkillData.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "HeroAnimatorAlbum",
+            "AssetPath": "Assets/HotFixAssets/Album/AnimatorAlbum/HeroAnimatorAlbum.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "MonsterAnimatorAlbum",
+            "AssetPath": "Assets/HotFixAssets/Album/AnimatorAlbum/MonsterAnimatorAlbum.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "FontAlbum",
+            "AssetPath": "Assets/HotFixAssets/Album/FontAlbum/FontAlbum.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "ChapterAlbum",
+            "AssetPath": "Assets/HotFixAssets/Album/SpriteAlbum/ChapterAlbum.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 10
+        },
+        {
+            "Address": "CommonAlbum",
+            "AssetPath": "Assets/HotFixAssets/Album/SpriteAlbum/CommonAlbum.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 10
+        },
+        {
+            "Address": "SkillIconAlbum",
+            "AssetPath": "Assets/HotFixAssets/Album/SpriteAlbum/SkillIconAlbum.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 10
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_prefab_gamearea.bundle",
+            "UnityCRC": 20396082,
+            "FileHash": "b0873537bf432908449c47ebe0a6f17a",
+            "FileCRC": "a1214b5f",
+            "FileSize": 10915,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                15,
+                17,
+                18,
+                19,
+                20,
+                21,
+                25,
+                22,
+                24,
+                23,
+                16,
+                13,
+                14,
+                11
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_prefab_skillobj.bundle",
+            "UnityCRC": 4052874768,
+            "FileHash": "ee2316ee6fecc9df06f06ab247f3bfc9",
+            "FileCRC": "8ae58707",
+            "FileSize": 30630,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                26,
+                28,
+                29,
+                30,
+                31,
+                32,
+                27,
+                33
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_prefab_skillrange.bundle",
+            "UnityCRC": 470195611,
+            "FileHash": "5ed5a15a6739a9d5323e8423b37b5a83",
+            "FileCRC": "3310dff2",
+            "FileSize": 3235,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                17,
+                34
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
+            "UnityCRC": 3714927723,
+            "FileHash": "abb3db4b6e4b9c53793ae5e1e08c25d7",
+            "FileCRC": "761f81d1",
+            "FileSize": 6025,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                13,
+                14,
+                11
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
+            "UnityCRC": 2569648652,
+            "FileHash": "d355d97ef971214b76af7d40ba766aa1",
+            "FileCRC": "b095ed19",
+            "FileSize": 27545,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                38,
+                36,
+                35,
+                37,
+                39,
+                40,
+                16,
+                13,
+                14,
+                11
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
+            "UnityCRC": 3273486021,
+            "FileHash": "6fa59c1ac43ea7bda1a48644801c2897",
+            "FileCRC": "8e538b2e",
+            "FileSize": 31713,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                41,
+                13,
+                14,
+                11
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_scenes.bundle",
+            "UnityCRC": 3170670985,
+            "FileHash": "b97e3efd1dc47ecc398b12b18c825682",
+            "FileCRC": "40ac2965",
+            "FileSize": 9640,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
+            "UnityCRC": 3003425659,
+            "FileHash": "182e6159cadc8830dce668b62c423864",
+            "FileCRC": "9decbb10",
+            "FileSize": 4969,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_album_animatoralbum.bundle",
+            "UnityCRC": 1323865996,
+            "FileHash": "8eeab714bdbbed12a2e982d0c29c4344",
+            "FileCRC": "7b1c1bcb",
+            "FileSize": 2609,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                15,
+                42,
+                43,
+                44,
+                55,
+                48,
+                53,
+                51,
+                52,
+                54,
+                45,
+                49,
+                18,
+                19,
+                20,
+                21,
+                56,
+                47,
+                46,
+                50
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_album_fontalbum.bundle",
+            "UnityCRC": 1375575189,
+            "FileHash": "318f424944e903e54122aca6a1d14627",
+            "FileCRC": "bb461d75",
+            "FileSize": 2045,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                13,
+                14,
+                11
+            ]
+        },
+        {
+            "BundleName": "assetspackage_assets_hotfixassets_album_spritealbum.bundle",
+            "UnityCRC": 99798762,
+            "FileHash": "aac00118d2a65393c91d79357af8a0e6",
+            "FileCRC": "98d8a967",
+            "FileSize": 2501,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                37,
+                41,
+                57
+            ]
+        },
+        {
+            "BundleName": "assetspackage_unityshaders.bundle",
+            "UnityCRC": 2899965357,
+            "FileHash": "d894ac44fdd90ab3403443fe9e84ca18",
+            "FileCRC": "590a9eea",
+            "FileSize": 33663,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+            "UnityCRC": 2230666170,
+            "FileHash": "0e03a8b69d5d5907105f7f7c44814091",
+            "FileCRC": "4924a259",
+            "FileSize": 8226,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_tmpfonts_fonts.bundle",
+            "UnityCRC": 1026005195,
+            "FileHash": "30b72b065e6ae6ef999073a2ec2c877a",
+            "FileCRC": "72c8eb8a",
+            "FileSize": 42581140,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_tmpfonts_material.bundle",
+            "UnityCRC": 825441168,
+            "FileHash": "ca4cf8691785c3711b6b52884a14bf21",
+            "FileCRC": "4afa57b4",
+            "FileSize": 30661133,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                13,
+                11
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_hero_hero0.bundle",
+            "UnityCRC": 1228712808,
+            "FileHash": "98ff392c5051cdcdd361848d1950200f",
+            "FileCRC": "718fea2c",
+            "FileSize": 105834,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_game.bundle",
+            "UnityCRC": 2372587212,
+            "FileHash": "0cc7fd9bf982f3f737e971aca142b102",
+            "FileCRC": "32d5e468",
+            "FileSize": 1015013,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_material.bundle",
+            "UnityCRC": 4082239234,
+            "FileHash": "3ba378f5dcbcf87d79f6051e804e80b2",
+            "FileCRC": "d0d63879",
+            "FileSize": 2812,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_physics1.bundle",
+            "UnityCRC": 1544257108,
+            "FileHash": "729806174c5b83d0825a87c580fdec60",
+            "FileCRC": "093c9664",
+            "FileSize": 10780,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                19,
+                20,
+                21
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_physics1_attack.bundle",
+            "UnityCRC": 2836165258,
+            "FileHash": "4437cd409e4137c4cd2dda93a4e1aa13",
+            "FileCRC": "46e411b1",
+            "FileSize": 70466,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_physics1_idle.bundle",
+            "UnityCRC": 1983100411,
+            "FileHash": "62796016567e06bc1f2e6920c2fad54a",
+            "FileCRC": "ce6be7f2",
+            "FileSize": 104916,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_physics1_move.bundle",
+            "UnityCRC": 3399674743,
+            "FileHash": "690e1fa6592dd2a1af6672243126e5bf",
+            "FileCRC": "ba5a58e2",
+            "FileSize": 52025,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_propertiesstate_freeze.bundle",
+            "UnityCRC": 193426449,
+            "FileHash": "45793c387270372556f7264c818c3051",
+            "FileCRC": "fdec2c9f",
+            "FileSize": 164151,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_propertiesstate_slowing.bundle",
+            "UnityCRC": 3202395905,
+            "FileHash": "09b4fcf96d1065bfd9d1791b489dd44c",
+            "FileCRC": "5836cbb3",
+            "FileSize": 16997,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_propertiesstate_hit.bundle",
+            "UnityCRC": 371473108,
+            "FileHash": "b0e3f6c98a10b028228b3f0ac68b034e",
+            "FileCRC": "75c771b1",
+            "FileSize": 94376,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_propertiesstate_burning.bundle",
+            "UnityCRC": 1371594478,
+            "FileHash": "f4bafb9267286c2f8ef28aeae06b5074",
+            "FileCRC": "6b961a59",
+            "FileSize": 13318,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_skills_burstbouncyball.bundle",
+            "UnityCRC": 2772655808,
+            "FileHash": "8a991df05566784bb81542dd2407b418",
+            "FileCRC": "01b6717c",
+            "FileSize": 62237,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_skills_iceball.bundle",
+            "UnityCRC": 2321364012,
+            "FileHash": "d31d8c2e4b8ff64359d405166875a01d",
+            "FileCRC": "f56b4a2d",
+            "FileSize": 45052,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                26
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_skills_chainlightning.bundle",
+            "UnityCRC": 2158307560,
+            "FileHash": "c56431b4d15a50cc2f478c2eee3ccb3f",
+            "FileCRC": "e50de76c",
+            "FileSize": 31708,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_skills_elementalarrow_fire.bundle",
+            "UnityCRC": 3717618560,
+            "FileHash": "bd327c595c3986f56eae5fb1ce87bae0",
+            "FileCRC": "c08f5d76",
+            "FileSize": 46509,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_skills_elementalarrow_ice.bundle",
+            "UnityCRC": 1980240415,
+            "FileHash": "7cc0c925a46e85195c1c4fa4d241d4a7",
+            "FileCRC": "3a13b88d",
+            "FileSize": 47201,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_skills_elementalarrow_lightnting.bundle",
+            "UnityCRC": 1160053242,
+            "FileHash": "d1ca80326ea3bc124a76aba6bbc352cf",
+            "FileCRC": "2849bdef",
+            "FileSize": 46929,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_skills_elementalarrow_physics.bundle",
+            "UnityCRC": 1636556265,
+            "FileHash": "b1210c2cea6b0c9a6340779c1222d623",
+            "FileCRC": "aab829a3",
+            "FileSize": 46058,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_skills_thunder.bundle",
+            "UnityCRC": 740026685,
+            "FileHash": "2e1346c60830b817ca0b045d3d8ba70d",
+            "FileCRC": "e60e40d4",
+            "FileSize": 52160,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_packages_com_unity_2d_sprite_editor_objectmenucreation_defaultassets_textures_v2.bundle",
+            "UnityCRC": 289719575,
+            "FileHash": "41192b915c5b87b9c5eb344ad5fe5efe",
+            "FileCRC": "35e48144",
+            "FileSize": 7026,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_effect_getbossbonus.bundle",
+            "UnityCRC": 732158121,
+            "FileHash": "ba3f92df9d63c19d8273358d90ba7048",
+            "FileCRC": "98483dce",
+            "FileSize": 240973,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle",
+            "UnityCRC": 2940288102,
+            "FileHash": "8ba3e92701db505c6d57fb7e4cfb47b2",
+            "FileCRC": "37a12623",
+            "FileSize": 373492,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                38,
+                11
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_skills_icon.bundle",
+            "UnityCRC": 4198100936,
+            "FileHash": "e71e65c1823b101c1fe48647e4b2cccf",
+            "FileCRC": "9b2d95ee",
+            "FileSize": 142616,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_textmesh pro_fonts.bundle",
+            "UnityCRC": 2535523511,
+            "FileHash": "c8c105429a383f3e7df37d6940e30fb5",
+            "FileCRC": "45d9da42",
+            "FileSize": 227232,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_community_buttons.bundle",
+            "UnityCRC": 255472538,
+            "FileHash": "14d466d892c2e3a9ef2a790c63cfd0ba",
+            "FileCRC": "e5f4298b",
+            "FileSize": 4889,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_community_progressbars.bundle",
+            "UnityCRC": 2965426396,
+            "FileHash": "3a537bb4c58646bbcb2f8c5a7d70df3d",
+            "FileCRC": "b61a3909",
+            "FileSize": 4858,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_community.bundle",
+            "UnityCRC": 3134889344,
+            "FileHash": "ed2700e18cd82f6010936cc86e338b0f",
+            "FileCRC": "d09879bf",
+            "FileSize": 9400,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_hero_hero1.bundle",
+            "UnityCRC": 3955174436,
+            "FileHash": "567593044f95b1bbc9811cb7becfeb9f",
+            "FileCRC": "533f34c4",
+            "FileSize": 104362,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_hero_hero2.bundle",
+            "UnityCRC": 3782428430,
+            "FileHash": "bf666758a68fc712a8b5157e691f2bda",
+            "FileCRC": "51e8591c",
+            "FileSize": 105913,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_hero_hero3.bundle",
+            "UnityCRC": 3836905047,
+            "FileHash": "a29ffba9222998761461e65c56de5fd5",
+            "FileCRC": "d5156b18",
+            "FileSize": 106226,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_ice1_idle.bundle",
+            "UnityCRC": 2086981729,
+            "FileHash": "b7e792204d572b832950c6d138451803",
+            "FileCRC": "8ae52a01",
+            "FileSize": 103281,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_thunder1_idle.bundle",
+            "UnityCRC": 3138313826,
+            "FileHash": "318bc030365f5a64429ee950faaa7545",
+            "FileCRC": "7345c5dc",
+            "FileSize": 99843,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_thunder1_attack.bundle",
+            "UnityCRC": 1231422048,
+            "FileHash": "8690b877504f56d06b5490dbdbbed529",
+            "FileCRC": "1b3c26d9",
+            "FileSize": 70228,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_flame1_attack.bundle",
+            "UnityCRC": 3906255188,
+            "FileHash": "f40fb08df4d48e72e95d84590bad9e7d",
+            "FileCRC": "06057985",
+            "FileSize": 70252,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_ice1_move.bundle",
+            "UnityCRC": 1594319877,
+            "FileHash": "d9b4c80cb11bcccf26d60944e232c15f",
+            "FileCRC": "4fa3a52e",
+            "FileSize": 49944,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle",
+            "UnityCRC": 2726049268,
+            "FileHash": "72d37bfe824b2bc2ca384953ac581b13",
+            "FileCRC": "44f45497",
+            "FileSize": 51722,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_flame1_move.bundle",
+            "UnityCRC": 3654141656,
+            "FileHash": "41b52fce4fb5bb577629b358d05fa183",
+            "FileCRC": "b99e1e19",
+            "FileSize": 50365,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_ice1.bundle",
+            "UnityCRC": 2787941031,
+            "FileHash": "90e3bb68c3ffb68ab53b8ebb03b45467",
+            "FileCRC": "8afa7cb8",
+            "FileSize": 10769,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                54,
+                45,
+                49
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_flame1_idle.bundle",
+            "UnityCRC": 630037918,
+            "FileHash": "7cb8090784b113bb2f2af80ec8c740a1",
+            "FileCRC": "968d903f",
+            "FileSize": 100995,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_ice1_attack.bundle",
+            "UnityCRC": 2880950256,
+            "FileHash": "83a60c394b2f7caadfd190e40d88940b",
+            "FileCRC": "2a5fc17b",
+            "FileSize": 69997,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_flame1.bundle",
+            "UnityCRC": 2034654429,
+            "FileHash": "b573c4b8ae009ba98cca6cbfe10c9a5d",
+            "FileCRC": "cbf87f7f",
+            "FileSize": 10756,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                48,
+                53,
+                51
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_thunder1.bundle",
+            "UnityCRC": 3244215391,
+            "FileHash": "23991fe46ac1960e7885f7beddc8467b",
+            "FileCRC": "f1db49b5",
+            "FileSize": 10755,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                47,
+                46,
+                50
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_lobby.bundle",
+            "UnityCRC": 335654316,
+            "FileHash": "7c240ad2d5a19a4e233c7a8b2f5f0661",
+            "FileCRC": "54f3e8b8",
+            "FileSize": 18497,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}
