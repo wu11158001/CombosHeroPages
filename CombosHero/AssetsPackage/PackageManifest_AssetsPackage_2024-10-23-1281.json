@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "AssetsPackage",
-    "PackageVersion": "2024-10-23-1246",
+    "PackageVersion": "2024-10-23-1281",
     "AssetList": [
         {
             "Address": "Damage_MeshText",
@@ -116,6 +116,13 @@
         {
             "Address": "CurrencyInfoView",
             "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/CurrencyInfoView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "MaskView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/MaskView.prefab",
             "AssetGUID": "",
             "AssetTags": [],
             "BundleID": 3
@@ -442,10 +449,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "UnityCRC": 3671678551,
-            "FileHash": "5a8041708c7d927904a4f4882e9bac88",
-            "FileCRC": "a28b12d0",
-            "FileSize": 16471,
+            "UnityCRC": 341981891,
+            "FileHash": "b9d2e0363089b844fa8951443c3e25bd",
+            "FileCRC": "598d53f2",
+            "FileSize": 16622,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
@@ -495,10 +502,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "UnityCRC": 1137745060,
-            "FileHash": "a6c94065c32ad4637aa845b598c59f28",
-            "FileCRC": "5a44b59e",
-            "FileSize": 55352,
+            "UnityCRC": 282130821,
+            "FileHash": "6c0d98211f082010f293949a6548632e",
+            "FileCRC": "13a6b822",
+            "FileSize": 55142,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [

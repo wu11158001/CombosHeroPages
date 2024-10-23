@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.1.1",
         "UnityVersion": "2021.3.43f1",
-        "BuildDate": "2024/10/23 下午 08:47:19",
-        "BuildSeconds": 63,
+        "BuildDate": "2024/10/23 下午 09:22:10",
+        "BuildSeconds": 27,
         "BuildTarget": 13,
         "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildPackageName": "AssetsPackage",
-        "BuildPackageVersion": "2024-10-23-1246",
+        "BuildPackageVersion": "2024-10-23-1281",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -21,10 +21,10 @@
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
-        "AssetFileTotalCount": 573,
-        "MainAssetTotalCount": 53,
+        "AssetFileTotalCount": 574,
+        "MainAssetTotalCount": 54,
         "AllBundleTotalCount": 77,
-        "AllBundleTotalSize": 107840081,
+        "AllBundleTotalSize": 107840022,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -310,7 +310,7 @@
             "AssetGUID": "8d83ac8c0958b0346a2653ed307def66",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 16471,
+            "MainBundleSize": 16622,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Line1.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -324,12 +324,21 @@
             ]
         },
         {
+            "Address": "MaskView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/MaskView.prefab",
+            "AssetGUID": "b423ae866da833b4281abffa546b7635",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
+            "MainBundleSize": 16622,
+            "DependAssets": []
+        },
+        {
             "Address": "MonsterInfoView",
             "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/MonsterInfoView.prefab",
             "AssetGUID": "4fb5b533ca31ea940a9870a2fa03435b",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 16471,
+            "MainBundleSize": 16622,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Line1.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -349,7 +358,7 @@
             "AssetGUID": "a4496b7d8a78afb4b9aa5c1d7aacff76",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 16471,
+            "MainBundleSize": 16622,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -371,7 +380,7 @@
             "AssetGUID": "cdc2212d63506cb4891d4e04ec4856ed",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 16471,
+            "MainBundleSize": 16622,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -619,7 +628,7 @@
             "AssetGUID": "22380cabe2d9872408bef18cfc7007bc",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55352,
+            "MainBundleSize": 55142,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -645,7 +654,7 @@
             "AssetGUID": "5e3dde1350d6ed94db86ed5a62146b19",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55352,
+            "MainBundleSize": 55142,
             "DependAssets": [
                 "Assets/UsingAssets/Monster/M_Ice1/Move/08.png",
                 "Assets/UsingAssets/Monster/M_Ice1/Move/10.png",
@@ -679,7 +688,7 @@
             "AssetGUID": "d86e40ea5c4082947bb9f411ded8b13e",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55352,
+            "MainBundleSize": 55142,
             "DependAssets": [
                 "Assets/UsingAssets/Effect/LevelUp/burst0047.png",
                 "Assets/UsingAssets/TMPFonts/Material/思源宋體-Medium.asset",
@@ -764,7 +773,7 @@
             "AssetGUID": "7009b447820dffb4ca8bb23f88a8f216",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55352,
+            "MainBundleSize": 55142,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
@@ -796,7 +805,7 @@
             "AssetGUID": "b301ee64b644f20459b293ba6d074d95",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55352,
+            "MainBundleSize": 55142,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Line1.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -817,7 +826,7 @@
             "AssetGUID": "8d8f7f13e8900954b819cd484c582d36",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55352,
+            "MainBundleSize": 55142,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
@@ -838,7 +847,7 @@
             "AssetGUID": "5861bee8692c1bf4f85b6804518aa590",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55352,
+            "MainBundleSize": 55142,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/Effect/SkillUpgrade/UpgradeEffect.controller",
@@ -867,7 +876,7 @@
             "AssetGUID": "da54bf41a4177f74f8f565f869e95402",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55352,
+            "MainBundleSize": 55142,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
@@ -1541,10 +1550,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "FileName": "5a8041708c7d927904a4f4882e9bac88.bundle",
-            "FileHash": "5a8041708c7d927904a4f4882e9bac88",
-            "FileCRC": "a28b12d0",
-            "FileSize": 16471,
+            "FileName": "b9d2e0363089b844fa8951443c3e25bd.bundle",
+            "FileHash": "b9d2e0363089b844fa8951443c3e25bd",
+            "FileCRC": "598d53f2",
+            "FileSize": 16622,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -1560,6 +1569,7 @@
             ],
             "AllBuiltinAssets": [
                 "Assets/HotFixAssets/Prefab/View/Common/CurrencyInfoView.prefab",
+                "Assets/HotFixAssets/Prefab/View/Common/MaskView.prefab",
                 "Assets/HotFixAssets/Prefab/View/Common/MonsterInfoView.prefab",
                 "Assets/HotFixAssets/Prefab/View/Common/SkillDescriptionView.prefab",
                 "Assets/HotFixAssets/Prefab/View/Common/TipMsgView.prefab"
@@ -1610,10 +1620,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "FileName": "a6c94065c32ad4637aa845b598c59f28.bundle",
-            "FileHash": "a6c94065c32ad4637aa845b598c59f28",
-            "FileCRC": "5a44b59e",
-            "FileSize": 55352,
+            "FileName": "6c0d98211f082010f293949a6548632e.bundle",
+            "FileHash": "6c0d98211f082010f293949a6548632e",
+            "FileCRC": "13a6b822",
+            "FileSize": 55142,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
