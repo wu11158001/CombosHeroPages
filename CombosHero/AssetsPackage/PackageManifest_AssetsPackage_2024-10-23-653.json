@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "AssetsPackage",
-    "PackageVersion": "2024-10-23-626",
+    "PackageVersion": "2024-10-23-653",
     "AssetList": [
         {
             "Address": "Damage_MeshText",
@@ -442,10 +442,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "UnityCRC": 1491943184,
-            "FileHash": "de3c0a2808712ab4382f61e70314e7b4",
-            "FileCRC": "0a676b2a",
-            "FileSize": 16472,
+            "UnityCRC": 3961470053,
+            "FileHash": "7f0aa875cd2f088e83d0dcbc56ff3b1a",
+            "FileCRC": "69415ac0",
+            "FileSize": 16471,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
@@ -462,10 +462,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "UnityCRC": 2128512243,
-            "FileHash": "b9c7de7180dba434a078c37c7e30f93c",
-            "FileCRC": "e58c4897",
-            "FileSize": 40306,
+            "UnityCRC": 3546782185,
+            "FileHash": "7b50f6ef54a500b515cee34fdd1abd89",
+            "FileCRC": "e92a6d13",
+            "FileSize": 40355,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
@@ -495,10 +495,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "UnityCRC": 3083821252,
-            "FileHash": "b0e8e988badf0b441ab3a774400e8d4a",
-            "FileCRC": "e62e058a",
-            "FileSize": 55333,
+            "UnityCRC": 3024402784,
+            "FileHash": "64ebf04a16d653011cbf47d71aebefd5",
+            "FileCRC": "fca61f01",
+            "FileSize": 55335,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
