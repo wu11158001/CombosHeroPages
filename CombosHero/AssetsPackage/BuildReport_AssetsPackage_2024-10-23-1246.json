@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.1.1",
         "UnityVersion": "2021.3.43f1",
-        "BuildDate": "2024/10/23 上午 11:24:21",
-        "BuildSeconds": 26,
+        "BuildDate": "2024/10/23 下午 08:47:19",
+        "BuildSeconds": 63,
         "BuildTarget": 13,
         "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildPackageName": "AssetsPackage",
-        "BuildPackageVersion": "2024-10-23-683",
+        "BuildPackageVersion": "2024-10-23-1246",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -24,7 +24,7 @@
         "AssetFileTotalCount": 573,
         "MainAssetTotalCount": 53,
         "AllBundleTotalCount": 77,
-        "AllBundleTotalSize": 107840073,
+        "AllBundleTotalSize": 107840081,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -619,7 +619,7 @@
             "AssetGUID": "22380cabe2d9872408bef18cfc7007bc",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55344,
+            "MainBundleSize": 55352,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -645,7 +645,7 @@
             "AssetGUID": "5e3dde1350d6ed94db86ed5a62146b19",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55344,
+            "MainBundleSize": 55352,
             "DependAssets": [
                 "Assets/UsingAssets/Monster/M_Ice1/Move/08.png",
                 "Assets/UsingAssets/Monster/M_Ice1/Move/10.png",
@@ -679,7 +679,7 @@
             "AssetGUID": "d86e40ea5c4082947bb9f411ded8b13e",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55344,
+            "MainBundleSize": 55352,
             "DependAssets": [
                 "Assets/UsingAssets/Effect/LevelUp/burst0047.png",
                 "Assets/UsingAssets/TMPFonts/Material/思源宋體-Medium.asset",
@@ -764,7 +764,7 @@
             "AssetGUID": "7009b447820dffb4ca8bb23f88a8f216",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55344,
+            "MainBundleSize": 55352,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
@@ -796,7 +796,7 @@
             "AssetGUID": "b301ee64b644f20459b293ba6d074d95",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55344,
+            "MainBundleSize": 55352,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Line1.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -817,7 +817,7 @@
             "AssetGUID": "8d8f7f13e8900954b819cd484c582d36",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55344,
+            "MainBundleSize": 55352,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
@@ -838,7 +838,7 @@
             "AssetGUID": "5861bee8692c1bf4f85b6804518aa590",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55344,
+            "MainBundleSize": 55352,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/Effect/SkillUpgrade/UpgradeEffect.controller",
@@ -867,7 +867,7 @@
             "AssetGUID": "da54bf41a4177f74f8f565f869e95402",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 55344,
+            "MainBundleSize": 55352,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
@@ -1610,10 +1610,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "FileName": "fff00808bd9a19f20f15cc1b71c75faa.bundle",
-            "FileHash": "fff00808bd9a19f20f15cc1b71c75faa",
-            "FileCRC": "5757ae28",
-            "FileSize": 55344,
+            "FileName": "a6c94065c32ad4637aa845b598c59f28.bundle",
+            "FileHash": "a6c94065c32ad4637aa845b598c59f28",
+            "FileCRC": "5a44b59e",
+            "FileSize": 55352,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
