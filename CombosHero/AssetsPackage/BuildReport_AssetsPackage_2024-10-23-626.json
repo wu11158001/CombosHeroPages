@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.1.1",
         "UnityVersion": "2021.3.43f1",
-        "BuildDate": "2024/10/23 上午 10:09:15",
+        "BuildDate": "2024/10/23 上午 10:26:41",
         "BuildSeconds": 27,
         "BuildTarget": 13,
         "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildPackageName": "AssetsPackage",
-        "BuildPackageVersion": "2024-10-23-608",
+        "BuildPackageVersion": "2024-10-23-626",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -24,7 +24,7 @@
         "AssetFileTotalCount": 573,
         "MainAssetTotalCount": 53,
         "AllBundleTotalCount": 77,
-        "AllBundleTotalSize": 107840054,
+        "AllBundleTotalSize": 107840050,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -310,7 +310,7 @@
             "AssetGUID": "8d83ac8c0958b0346a2653ed307def66",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 16469,
+            "MainBundleSize": 16472,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Line1.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -329,7 +329,7 @@
             "AssetGUID": "4fb5b533ca31ea940a9870a2fa03435b",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 16469,
+            "MainBundleSize": 16472,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Line1.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -349,7 +349,7 @@
             "AssetGUID": "a4496b7d8a78afb4b9aa5c1d7aacff76",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 16469,
+            "MainBundleSize": 16472,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -371,7 +371,7 @@
             "AssetGUID": "cdc2212d63506cb4891d4e04ec4856ed",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 16469,
+            "MainBundleSize": 16472,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -920,7 +920,7 @@
             "AssetGUID": "066656f125ee46046a7d63b8c9a85521",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 6715,
+            "MainBundleSize": 6708,
             "DependAssets": []
         },
         {
@@ -929,7 +929,7 @@
             "AssetGUID": "0b6ed7435081e314e9d3e335bfb4dc82",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 6715,
+            "MainBundleSize": 6708,
             "DependAssets": []
         },
         {
@@ -938,7 +938,7 @@
             "AssetGUID": "ba68b66492ea6c0408cedf13f33be5c2",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 6715,
+            "MainBundleSize": 6708,
             "DependAssets": []
         },
         {
@@ -947,7 +947,7 @@
             "AssetGUID": "6270f34999fb8684eb3220b5f51a48c8",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 6715,
+            "MainBundleSize": 6708,
             "DependAssets": []
         },
         {
@@ -1541,10 +1541,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "FileName": "a4d13b7d8a05156b8c5a1b6f690fa892.bundle",
-            "FileHash": "a4d13b7d8a05156b8c5a1b6f690fa892",
-            "FileCRC": "64fd6430",
-            "FileSize": 16469,
+            "FileName": "de3c0a2808712ab4382f61e70314e7b4.bundle",
+            "FileHash": "de3c0a2808712ab4382f61e70314e7b4",
+            "FileCRC": "0a676b2a",
+            "FileSize": 16472,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -1668,10 +1668,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "FileName": "b7e59b4722d01d8548cba0e2d73d8ee8.bundle",
-            "FileHash": "b7e59b4722d01d8548cba0e2d73d8ee8",
-            "FileCRC": "9ca63025",
-            "FileSize": 6715,
+            "FileName": "bbe3e12373e7d985d334434c2ac9418e.bundle",
+            "FileHash": "bbe3e12373e7d985d334434c2ac9418e",
+            "FileCRC": "b985e42d",
+            "FileSize": 6708,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
