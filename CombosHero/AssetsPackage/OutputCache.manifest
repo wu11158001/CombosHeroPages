@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1734822135
+CRC: 2940895987
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -38,8 +38,8 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: assetspackage_share_assets_usingassets_tmpfonts_material.bundle
         Dependency_1: assetspackage_share_assets_usingassets_monster_m_physics1_idle.bundle
-        Dependency_2: assetspackage_share_assets_usingassets_sprites_community_other.bundle
-        Dependency_3: assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle
+        Dependency_2: assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle
+        Dependency_3: assetspackage_share_assets_usingassets_sprites_community_other.bundle
         Dependency_4: assetspackage_share_assets_usingassets_sprites_community_ui.bundle
         Dependency_5: assetspackage_share_assets_usingassets_sprites_album_skilliconalbum.bundle
     Info_4:
@@ -48,8 +48,8 @@ AssetBundleManifest:
         Dependency_0: assetspackage_share_assets_usingassets_tmpfonts_material.bundle
         Dependency_1: assetspackage_share_assets_usingassets_sprites_game.bundle
         Dependency_2: assetspackage_share_assets_usingassets_monster_m_physics1_idle.bundle
-        Dependency_3: assetspackage_share_assets_usingassets_sprites_community_other.bundle
-        Dependency_4: assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle
+        Dependency_3: assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle
+        Dependency_4: assetspackage_share_assets_usingassets_sprites_community_other.bundle
         Dependency_5: assetspackage_share_assets_usingassets_sprites_community_ui.bundle
         Dependency_6: assetspackage_share_assets_usingassets_sprites_album_skilliconalbum.bundle
         Dependency_7: assetspackage_share_assets_usingassets_effect_getbossbonus.bundle
@@ -65,8 +65,8 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: assetspackage_share_assets_usingassets_tmpfonts_material.bundle
         Dependency_1: assetspackage_share_assets_usingassets_monster_m_physics1_idle.bundle
-        Dependency_2: assetspackage_share_assets_usingassets_sprites_community_other.bundle
-        Dependency_3: assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle
+        Dependency_2: assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle
+        Dependency_3: assetspackage_share_assets_usingassets_sprites_community_other.bundle
         Dependency_4: assetspackage_share_assets_usingassets_sprites_community_ui.bundle
         Dependency_5: assetspackage_share_assets_usingassets_sprites_album_skilliconalbum.bundle
         Dependency_6: assetspackage_share_assets_usingassets_sprites_album_currencyalbum.bundle
@@ -203,13 +203,13 @@ AssetBundleManifest:
       Name: assetspackage_share_packages_com_unity_2d_sprite_editor_objectmenucreation_defaultassets_textures_v2.bundle
       Dependencies: {}
     Info_38:
-      Name: assetspackage_share_assets_usingassets_sprites_community_other.bundle
-      Dependencies: {}
-    Info_39:
       Name: assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle
       Dependencies:
         Dependency_0: assetspackage_unityshaders.bundle
         Dependency_1: assetspackage_share_assets_textmesh pro_fonts.bundle
+    Info_39:
+      Name: assetspackage_share_assets_usingassets_sprites_community_other.bundle
+      Dependencies: {}
     Info_40:
       Name: assetspackage_share_assets_usingassets_sprites_community_ui.bundle
       Dependencies: {}

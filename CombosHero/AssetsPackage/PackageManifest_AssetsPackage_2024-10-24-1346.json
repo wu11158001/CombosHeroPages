@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "AssetsPackage",
-    "PackageVersion": "2024-10-23-1306",
+    "PackageVersion": "2024-10-24-1346",
     "AssetList": [
         {
             "Address": "Damage_MeshText",
@@ -449,18 +449,18 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "UnityCRC": 341981891,
-            "FileHash": "b9d2e0363089b844fa8951443c3e25bd",
-            "FileCRC": "598d53f2",
-            "FileSize": 16622,
+            "UnityCRC": 2306912379,
+            "FileHash": "13763e0e1ac2deb2966484f49eba4cfa",
+            "FileCRC": "9e9356b4",
+            "FileSize": 16145,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
                 41,
-                39,
+                38,
                 22,
                 42,
-                38,
+                39,
                 40,
                 14,
                 15,
@@ -469,15 +469,15 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "UnityCRC": 3904471918,
-            "FileHash": "7413a44a5276b01adfc3ccd5d539ba47",
-            "FileCRC": "a1ddc1a1",
-            "FileSize": 40319,
+            "UnityCRC": 2537527233,
+            "FileHash": "a2fe6caedd5d16708b945b03e368135c",
+            "FileCRC": "85325528",
+            "FileSize": 38095,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
                 41,
-                39,
+                38,
                 43,
                 49,
                 48,
@@ -491,7 +491,7 @@
                 46,
                 44,
                 42,
-                38,
+                39,
                 47,
                 40,
                 17,
@@ -502,15 +502,15 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "UnityCRC": 3206717654,
-            "FileHash": "4f7d0de10ebb34b776ea1d457420d04a",
-            "FileCRC": "092a9d31",
-            "FileSize": 55536,
+            "UnityCRC": 4137724052,
+            "FileHash": "60fbeaa92da32e086bd94b25fd4dc928",
+            "FileCRC": "336d2fc5",
+            "FileSize": 54675,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
                 41,
-                39,
+                38,
                 54,
                 57,
                 63,
@@ -525,7 +525,7 @@
                 44,
                 55,
                 42,
-                38,
+                39,
                 40,
                 53,
                 58,
@@ -903,16 +903,6 @@
             "DependIDs": []
         },
         {
-            "BundleName": "assetspackage_share_assets_usingassets_sprites_community_other.bundle",
-            "UnityCRC": 2715195154,
-            "FileHash": "9110d43aab7f219e7fc7fe81db434e92",
-            "FileCRC": "3218d42b",
-            "FileSize": 38795,
-            "Encrypted": false,
-            "Tags": [],
-            "DependIDs": []
-        },
-        {
             "BundleName": "assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle",
             "UnityCRC": 2972891042,
             "FileHash": "e1848c8d788eff9f965b1395d4f9b4e7",
@@ -924,6 +914,16 @@
                 41,
                 12
             ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_community_other.bundle",
+            "UnityCRC": 2715195154,
+            "FileHash": "9110d43aab7f219e7fc7fe81db434e92",
+            "FileCRC": "3218d42b",
+            "FileSize": 38795,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_sprites_community_ui.bundle",
