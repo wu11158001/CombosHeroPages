@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.1.1",
         "UnityVersion": "2021.3.43f1",
-        "BuildDate": "2024/10/24 下午 10:27:09",
-        "BuildSeconds": 26,
+        "BuildDate": "2024/10/27 上午 07:34:19",
+        "BuildSeconds": 32,
         "BuildTarget": 13,
         "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildPackageName": "AssetsPackage",
-        "BuildPackageVersion": "2024-10-24-1346",
+        "BuildPackageVersion": "2024-10-27-453",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -21,10 +21,10 @@
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
-        "AssetFileTotalCount": 574,
-        "MainAssetTotalCount": 54,
+        "AssetFileTotalCount": 580,
+        "MainAssetTotalCount": 58,
         "AllBundleTotalCount": 77,
-        "AllBundleTotalSize": 107836854,
+        "AllBundleTotalSize": 107916954,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -155,7 +155,7 @@
             "AssetGUID": "c31ae085e92030843ad2e99d223b567b",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_skillobj.bundle",
-            "MainBundleSize": 31691,
+            "MainBundleSize": 31696,
             "DependAssets": [
                 "Assets/UsingAssets/Skills/BurstBouncyBall/BurstBouncyBall.controller",
                 "Assets/UsingAssets/Skills/BurstBouncyBall/BurstBouncyBall.png",
@@ -169,7 +169,7 @@
             "AssetGUID": "d4483ca045a373843825de81ccc0c34a",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_skillobj.bundle",
-            "MainBundleSize": 31691,
+            "MainBundleSize": 31696,
             "DependAssets": [
                 "Assets/UsingAssets/Skills/ChainLightning/ChainLightning.mat"
             ]
@@ -180,7 +180,7 @@
             "AssetGUID": "b0026ca749d02794c9b959feadd741fe",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_skillobj.bundle",
-            "MainBundleSize": 31691,
+            "MainBundleSize": 31696,
             "DependAssets": []
         },
         {
@@ -189,7 +189,7 @@
             "AssetGUID": "9226ffcb5de33b94c86af30e1ae62540",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_skillobj.bundle",
-            "MainBundleSize": 31691,
+            "MainBundleSize": 31696,
             "DependAssets": [
                 "Assets/UsingAssets/Skills/ElementalArrow/Fire/ElementalArrowObj_Fire.anim",
                 "Assets/UsingAssets/Skills/ElementalArrow/Fire/ElementalArrowObj_Fire.png",
@@ -202,7 +202,7 @@
             "AssetGUID": "dafe196c1cafbd24fa1034287f25ad91",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_skillobj.bundle",
-            "MainBundleSize": 31691,
+            "MainBundleSize": 31696,
             "DependAssets": [
                 "Assets/UsingAssets/Skills/ElementalArrow/Ice/ElementalArrowObj_Ice.anim",
                 "Assets/UsingAssets/Skills/ElementalArrow/Ice/ElementalArrowObj_Ice.controller",
@@ -215,7 +215,7 @@
             "AssetGUID": "4f39e0d60ad1f0345b5873128aa07279",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_skillobj.bundle",
-            "MainBundleSize": 31691,
+            "MainBundleSize": 31696,
             "DependAssets": [
                 "Assets/UsingAssets/Skills/ElementalArrow/Lightnting/ElementalArrowObj_Lightnting.png",
                 "Assets/UsingAssets/Skills/ElementalArrow/Lightnting/ElementalArrowObj_Lightnting.anim",
@@ -228,7 +228,7 @@
             "AssetGUID": "4197ce0202c153043bbfd56f9ba6c4a2",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_skillobj.bundle",
-            "MainBundleSize": 31691,
+            "MainBundleSize": 31696,
             "DependAssets": [
                 "Assets/UsingAssets/Skills/ElementalArrow/Physics/ElementalArrow_Physics.anim",
                 "Assets/UsingAssets/Skills/ElementalArrow/Physics/ElementalArrow_Physics.controller",
@@ -241,7 +241,7 @@
             "AssetGUID": "21e2478f483c76948bda74c66b7ea3ee",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_skillobj.bundle",
-            "MainBundleSize": 31691,
+            "MainBundleSize": 31696,
             "DependAssets": [
                 "Assets/UsingAssets/Skills/IceBall/IceBall.controller",
                 "Assets/UsingAssets/Skills/IceBall/IceBall.anim",
@@ -255,7 +255,7 @@
             "AssetGUID": "53cba9986eee8e0438abad9efc5c854f",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_skillobj.bundle",
-            "MainBundleSize": 31691,
+            "MainBundleSize": 31696,
             "DependAssets": [
                 "Assets/UsingAssets/AudioClip/Sound/Skill/LaserAttack.mp3"
             ]
@@ -266,7 +266,7 @@
             "AssetGUID": "95401811a6966f946a82ef5689edec14",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_skillobj.bundle",
-            "MainBundleSize": 31691,
+            "MainBundleSize": 31696,
             "DependAssets": [
                 "Assets/UsingAssets/Skills/Thunder/BOLT_6.png",
                 "Assets/UsingAssets/Skills/Thunder/BOLT_3.png",
@@ -305,12 +305,36 @@
             ]
         },
         {
+            "Address": "CongratulationsOnGettingView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/CongratulationsOnGettingView.prefab",
+            "AssetGUID": "0b5d617c5a1041841a9bb45d24719249",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
+            "MainBundleSize": 20467,
+            "DependAssets": [
+                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/IceBallBook.png",
+                "Assets/UsingAssets/TMPFonts/Material/思源宋體-Medium.asset",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/UsingAssets/Sprites/Community/UI/FrameSquareOrange.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/UsingAssets/TMPFonts/Fonts/SourceHanSerifTC-Medium.otf",
+                "Assets/UsingAssets/Sprites/Community/UI/SkillNameBg.png",
+                "Assets/UsingAssets/Sprites/Community/UI/SquareYellow.png",
+                "Assets/UsingAssets/Sprites/Community/UI/ButtonSquareYellow.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
             "Address": "CurrencyInfoView",
             "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/CurrencyInfoView.prefab",
             "AssetGUID": "8d83ac8c0958b0346a2653ed307def66",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 16145,
+            "MainBundleSize": 20467,
             "DependAssets": [
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
@@ -324,12 +348,29 @@
             ]
         },
         {
+            "Address": "CurrencyValueChangeView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/CurrencyValueChangeView.prefab",
+            "AssetGUID": "28664fd95f6685e4f91eb39307bb4914",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
+            "MainBundleSize": 20467,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Coin.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
             "Address": "MaskView",
             "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/MaskView.prefab",
             "AssetGUID": "b423ae866da833b4281abffa546b7635",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 16145,
+            "MainBundleSize": 20467,
             "DependAssets": []
         },
         {
@@ -338,7 +379,7 @@
             "AssetGUID": "4fb5b533ca31ea940a9870a2fa03435b",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 16145,
+            "MainBundleSize": 20467,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Line1.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -358,7 +399,7 @@
             "AssetGUID": "a4496b7d8a78afb4b9aa5c1d7aacff76",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 16145,
+            "MainBundleSize": 20467,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -380,7 +421,7 @@
             "AssetGUID": "cdc2212d63506cb4891d4e04ec4856ed",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 16145,
+            "MainBundleSize": 20467,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -393,12 +434,34 @@
             ]
         },
         {
+            "Address": "WaitMaskView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/WaitMaskView.prefab",
+            "AssetGUID": "a1ca8637f0e0b464583554dc152e2657",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
+            "MainBundleSize": 20467,
+            "DependAssets": [
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/10.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/07.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/08.png",
+                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Thunder1.controller",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/09.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/04.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/02.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/01.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/03.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/06.png",
+                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Thunder1.anim",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/05.png"
+            ]
+        },
+        {
             "Address": "BossBonusView",
             "AssetPath": "Assets/HotFixAssets/Prefab/View/Game/BossBonusView.prefab",
             "AssetGUID": "b89830c35087fa34ca1270af9cad9e96",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38095,
+            "MainBundleSize": 38092,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/UsingAssets/TMPFonts/Material/思源宋體-Medium.asset",
@@ -431,7 +494,7 @@
             "AssetGUID": "625539056456a184a8ca731627b94b12",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38095,
+            "MainBundleSize": 38092,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/FrameSquareOrange.png",
                 "Assets/UsingAssets/Sprites/Album/SkillIconAlbum/BouncyBall.png",
@@ -453,7 +516,7 @@
             "AssetGUID": "3daf3180bfd826a47be2fc935e7b4c30",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38095,
+            "MainBundleSize": 38092,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -480,7 +543,7 @@
             "AssetGUID": "db53943d7a1ec6c438815f5dcf9f2c17",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38095,
+            "MainBundleSize": 38092,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -511,7 +574,7 @@
             "AssetGUID": "b5cedf22c6ef9da4e93dac5f1c71b92a",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38095,
+            "MainBundleSize": 38092,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
@@ -547,7 +610,7 @@
             "AssetGUID": "2e2d033464cb02f468bb001996541f91",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38095,
+            "MainBundleSize": 38092,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -570,7 +633,7 @@
             "AssetGUID": "4c062a28050eb624396b96cbce1603e8",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38095,
+            "MainBundleSize": 38092,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -596,7 +659,7 @@
             "AssetGUID": "3e2e94209ec7d9348aecb5316734b8b2",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38095,
+            "MainBundleSize": 38092,
             "DependAssets": [
                 "Assets/UsingAssets/Monster/M_Ice1/Move/08.png",
                 "Assets/UsingAssets/Monster/M_Ice1/Move/10.png",
@@ -628,7 +691,7 @@
             "AssetGUID": "22380cabe2d9872408bef18cfc7007bc",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 54675,
+            "MainBundleSize": 57913,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -649,12 +712,34 @@
             ]
         },
         {
+            "Address": "BuyStaminaView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Lobby/BuyStaminaView.prefab",
+            "AssetGUID": "d570db5fb2c4ffb47a5479680f651b0d",
+            "AssetTags": [],
+            "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
+            "MainBundleSize": 57913,
+            "DependAssets": [
+                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Crystal.png",
+                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Stamina.png",
+                "Assets/UsingAssets/Sprites/Community/UI/FrameSquareOrange.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/UsingAssets/Sprites/Album/CommonAlbum/Advertise.png",
+                "Assets/UsingAssets/Sprites/Community/UI/ButtonSquareYellow.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/UsingAssets/Sprites/Community/UI/FrameSquareYellow.png",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
             "Address": "ChapterInfoView",
             "AssetPath": "Assets/HotFixAssets/Prefab/View/Lobby/ChapterInfoView.prefab",
             "AssetGUID": "5e3dde1350d6ed94db86ed5a62146b19",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 54675,
+            "MainBundleSize": 57913,
             "DependAssets": [
                 "Assets/UsingAssets/Monster/M_Ice1/Move/08.png",
                 "Assets/UsingAssets/Monster/M_Ice1/Move/10.png",
@@ -688,7 +773,7 @@
             "AssetGUID": "d86e40ea5c4082947bb9f411ded8b13e",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 54675,
+            "MainBundleSize": 57913,
             "DependAssets": [
                 "Assets/UsingAssets/Effect/LevelUp/burst0047.png",
                 "Assets/UsingAssets/TMPFonts/Material/思源宋體-Medium.asset",
@@ -773,7 +858,7 @@
             "AssetGUID": "7009b447820dffb4ca8bb23f88a8f216",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 54675,
+            "MainBundleSize": 57913,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
@@ -805,7 +890,7 @@
             "AssetGUID": "b301ee64b644f20459b293ba6d074d95",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 54675,
+            "MainBundleSize": 57913,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Line1.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -826,7 +911,7 @@
             "AssetGUID": "8d8f7f13e8900954b819cd484c582d36",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 54675,
+            "MainBundleSize": 57913,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
@@ -847,7 +932,7 @@
             "AssetGUID": "5861bee8692c1bf4f85b6804518aa590",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 54675,
+            "MainBundleSize": 57913,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/Effect/SkillUpgrade/UpgradeEffect.controller",
@@ -876,7 +961,7 @@
             "AssetGUID": "da54bf41a4177f74f8f565f869e95402",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 54675,
+            "MainBundleSize": 57913,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
@@ -929,7 +1014,7 @@
             "AssetGUID": "066656f125ee46046a7d63b8c9a85521",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 6708,
+            "MainBundleSize": 6870,
             "DependAssets": []
         },
         {
@@ -938,7 +1023,7 @@
             "AssetGUID": "0b6ed7435081e314e9d3e335bfb4dc82",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 6708,
+            "MainBundleSize": 6870,
             "DependAssets": []
         },
         {
@@ -947,7 +1032,7 @@
             "AssetGUID": "ba68b66492ea6c0408cedf13f33be5c2",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 6708,
+            "MainBundleSize": 6870,
             "DependAssets": []
         },
         {
@@ -956,7 +1041,7 @@
             "AssetGUID": "6270f34999fb8684eb3220b5f51a48c8",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 6708,
+            "MainBundleSize": 6870,
             "DependAssets": []
         },
         {
@@ -1319,7 +1404,7 @@
             "AssetGUID": "c77ac098f65039f4b8b5ee4891e147a8",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_album_audioclipalbum.bundle",
-            "MainBundleSize": 2851,
+            "MainBundleSize": 2891,
             "DependAssets": [
                 "Assets/UsingAssets/AudioClip/BGM/BattleBGM.wav",
                 "Assets/UsingAssets/AudioClip/BGM/LobbyBGM.mp3"
@@ -1331,12 +1416,13 @@
             "AssetGUID": "0cef6035e4607af419877b364e284345",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_album_audioclipalbum.bundle",
-            "MainBundleSize": 2851,
+            "MainBundleSize": 2891,
             "DependAssets": [
                 "Assets/UsingAssets/AudioClip/Sound/Game/Victory.mp3",
                 "Assets/UsingAssets/AudioClip/Sound/Game/HeroLevelUp.mp3",
                 "Assets/UsingAssets/AudioClip/Sound/Common/ButtonClick.mp3",
                 "Assets/UsingAssets/AudioClip/Sound/Game/BossBonusGet.mp3",
+                "Assets/UsingAssets/AudioClip/Sound/Common/CongratulationsOnGetting.mp3",
                 "Assets/UsingAssets/AudioClip/Sound/Skill/LaserAttack.mp3",
                 "Assets/UsingAssets/AudioClip/Sound/Game/BossBonus.mp3",
                 "Assets/UsingAssets/AudioClip/Sound/Skill/IceBallRelease.mp3",
@@ -1377,7 +1463,7 @@
             "AssetGUID": "a7a0a31bed132254ba19a45e77876f4a",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_album_spritealbum.bundle",
-            "MainBundleSize": 3371,
+            "MainBundleSize": 3395,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Album/AvatarAlbum/Hero3.png",
                 "Assets/UsingAssets/Sprites/Album/AvatarAlbum/Hero0.png",
@@ -1391,7 +1477,7 @@
             "AssetGUID": "95e1b1dd8173f584fbe4fa4e6c9f6806",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_album_spritealbum.bundle",
-            "MainBundleSize": 3371,
+            "MainBundleSize": 3395,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Album/ChapterAlbum/Chapter2.png",
                 "Assets/UsingAssets/Sprites/Album/ChapterAlbum/Chapter1.png",
@@ -1405,10 +1491,11 @@
             "AssetGUID": "d010a4b7f5cd431468c1ae42b33959b9",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_album_spritealbum.bundle",
-            "MainBundleSize": 3371,
+            "MainBundleSize": 3395,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Album/CommonAlbum/Treasure_Open.png",
                 "Assets/UsingAssets/Sprites/Album/CommonAlbum/Treasure_Close.png",
+                "Assets/UsingAssets/Sprites/Album/CommonAlbum/Advertise.png",
                 "Assets/UsingAssets/Sprites/Album/CommonAlbum/Star.png"
             ]
         },
@@ -1418,7 +1505,7 @@
             "AssetGUID": "d41d8044d9f2ae4469ccffe2725f52e7",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_album_spritealbum.bundle",
-            "MainBundleSize": 3371,
+            "MainBundleSize": 3395,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Crystal.png",
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/IceBallBook.png",
@@ -1437,7 +1524,7 @@
             "AssetGUID": "3c015a5c179688442a30257df79f8491",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_album_spritealbum.bundle",
-            "MainBundleSize": 3371,
+            "MainBundleSize": 3395,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Album/LobbyItemAlbum/Battle.png",
                 "Assets/UsingAssets/Sprites/Album/LobbyItemAlbum/Research.png",
@@ -1451,7 +1538,7 @@
             "AssetGUID": "f594b36ad7ae9134b814d619303f8b14",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_album_spritealbum.bundle",
-            "MainBundleSize": 3371,
+            "MainBundleSize": 3395,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Album/SkillIconAlbum/BurstBouncyBall.png",
                 "Assets/UsingAssets/Sprites/Album/SkillIconAlbum/Laser.png",
@@ -1501,10 +1588,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_skillobj.bundle",
-            "FileName": "29f7db9fd90d519a19038b4add318111.bundle",
-            "FileHash": "29f7db9fd90d519a19038b4add318111",
-            "FileCRC": "b7a48822",
-            "FileSize": 31691,
+            "FileName": "05f57650dc39ffaef7506eb813068ac5.bundle",
+            "FileHash": "05f57650dc39ffaef7506eb813068ac5",
+            "FileCRC": "a72e7448",
+            "FileSize": 31696,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -1550,16 +1637,22 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "FileName": "13763e0e1ac2deb2966484f49eba4cfa.bundle",
-            "FileHash": "13763e0e1ac2deb2966484f49eba4cfa",
-            "FileCRC": "9e9356b4",
-            "FileSize": 16145,
+            "FileName": "5246d42b4962fa8136b538006dd2c658.bundle",
+            "FileHash": "5246d42b4962fa8136b538006dd2c658",
+            "FileCRC": "e7dbe6f2",
+            "FileSize": 20467,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
                 "assetspackage_share_assets_textmesh pro_fonts.bundle",
                 "assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle",
+                "assetspackage_share_assets_usingassets_monster_m_flame1_move.bundle",
+                "assetspackage_share_assets_usingassets_monster_m_ice1_move.bundle",
                 "assetspackage_share_assets_usingassets_monster_m_physics1_idle.bundle",
+                "assetspackage_share_assets_usingassets_monster_m_physics1_move.bundle",
+                "assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle",
+                "assetspackage_share_assets_usingassets_monster_monsterinfo.bundle",
+                "assetspackage_share_assets_usingassets_sprites_album_currencyalbum.bundle",
                 "assetspackage_share_assets_usingassets_sprites_album_skilliconalbum.bundle",
                 "assetspackage_share_assets_usingassets_sprites_community_other.bundle",
                 "assetspackage_share_assets_usingassets_sprites_community_ui.bundle",
@@ -1568,19 +1661,22 @@
                 "assetspackage_unityshaders.bundle"
             ],
             "AllBuiltinAssets": [
+                "Assets/HotFixAssets/Prefab/View/Common/CongratulationsOnGettingView.prefab",
                 "Assets/HotFixAssets/Prefab/View/Common/CurrencyInfoView.prefab",
+                "Assets/HotFixAssets/Prefab/View/Common/CurrencyValueChangeView.prefab",
                 "Assets/HotFixAssets/Prefab/View/Common/MaskView.prefab",
                 "Assets/HotFixAssets/Prefab/View/Common/MonsterInfoView.prefab",
                 "Assets/HotFixAssets/Prefab/View/Common/SkillDescriptionView.prefab",
-                "Assets/HotFixAssets/Prefab/View/Common/TipMsgView.prefab"
+                "Assets/HotFixAssets/Prefab/View/Common/TipMsgView.prefab",
+                "Assets/HotFixAssets/Prefab/View/Common/WaitMaskView.prefab"
             ]
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "FileName": "a2fe6caedd5d16708b945b03e368135c.bundle",
-            "FileHash": "a2fe6caedd5d16708b945b03e368135c",
-            "FileCRC": "85325528",
-            "FileSize": 38095,
+            "FileName": "b01c78bbec95e14c7f32393d46ac3b6e.bundle",
+            "FileHash": "b01c78bbec95e14c7f32393d46ac3b6e",
+            "FileCRC": "4f352bf0",
+            "FileSize": 38092,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -1620,10 +1716,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "FileName": "60fbeaa92da32e086bd94b25fd4dc928.bundle",
-            "FileHash": "60fbeaa92da32e086bd94b25fd4dc928",
-            "FileCRC": "336d2fc5",
-            "FileSize": 54675,
+            "FileName": "4d34de5e5335f7ce668b9eba8a016a94.bundle",
+            "FileHash": "4d34de5e5335f7ce668b9eba8a016a94",
+            "FileCRC": "0b62e1bb",
+            "FileSize": 57913,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -1653,6 +1749,7 @@
             ],
             "AllBuiltinAssets": [
                 "Assets/HotFixAssets/Prefab/View/Lobby/BattleView.prefab",
+                "Assets/HotFixAssets/Prefab/View/Lobby/BuyStaminaView.prefab",
                 "Assets/HotFixAssets/Prefab/View/Lobby/ChapterInfoView.prefab",
                 "Assets/HotFixAssets/Prefab/View/Lobby/LevelUpView.prefab",
                 "Assets/HotFixAssets/Prefab/View/Lobby/LobbyView.prefab",
@@ -1678,10 +1775,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "FileName": "bbe3e12373e7d985d334434c2ac9418e.bundle",
-            "FileHash": "bbe3e12373e7d985d334434c2ac9418e",
-            "FileCRC": "b985e42d",
-            "FileSize": 6708,
+            "FileName": "b169f740c9a2efb33b0a2082f37198e9.bundle",
+            "FileHash": "b169f740c9a2efb33b0a2082f37198e9",
+            "FileCRC": "e3cc7774",
+            "FileSize": 6870,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -1731,10 +1828,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_album_audioclipalbum.bundle",
-            "FileName": "1bf3b85cbda35cdd03804bdd3ac5c863.bundle",
-            "FileHash": "1bf3b85cbda35cdd03804bdd3ac5c863",
-            "FileCRC": "33990a7a",
-            "FileSize": 2851,
+            "FileName": "938546d052bbb26cd9566f6937787666.bundle",
+            "FileHash": "938546d052bbb26cd9566f6937787666",
+            "FileCRC": "682d8e99",
+            "FileSize": 2891,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -1768,10 +1865,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_album_spritealbum.bundle",
-            "FileName": "8a0f94c9e8e82ea002b58770f99ca446.bundle",
-            "FileHash": "8a0f94c9e8e82ea002b58770f99ca446",
-            "FileCRC": "e32806c3",
-            "FileSize": 3371,
+            "FileName": "e4302529ee30e0989b0bdafc1d2a568d.bundle",
+            "FileHash": "e4302529ee30e0989b0bdafc1d2a568d",
+            "FileCRC": "879d9b2a",
+            "FileSize": 3395,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -1832,9 +1929,9 @@
             "DependBundles": [],
             "AllBuiltinAssets": [
                 "Assets/UsingAssets/TMPFonts/Fonts/NotoSansTC-Medium.otf",
+                "Assets/UsingAssets/TMPFonts/Fonts/SourceHanSerifTC-Medium.otf",
                 "Assets/UsingAssets/TMPFonts/Fonts/SourceHanSansTC-Medium.otf",
                 "Assets/UsingAssets/TMPFonts/Fonts/segoeui.ttf",
-                "Assets/UsingAssets/TMPFonts/Fonts/SourceHanSerifTC-Medium.otf",
                 "Assets/UsingAssets/TMPFonts/Fonts/msjhn.ttf"
             ]
         },
@@ -1852,9 +1949,9 @@
             ],
             "AllBuiltinAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/Noto Sans-500.asset",
+                "Assets/UsingAssets/TMPFonts/Material/思源宋體-Medium.asset",
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/UsingAssets/TMPFonts/Material/思源黑體-Medium.asset",
-                "Assets/UsingAssets/TMPFonts/Material/思源宋體-Medium.asset",
                 "Assets/UsingAssets/TMPFonts/Material/微軟正黑體.asset"
             ]
         },
@@ -2258,6 +2355,50 @@
             ]
         },
         {
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_album_currencyalbum.bundle",
+            "FileName": "ea4103aed400b41329b7e7bf767e718a.bundle",
+            "FileHash": "ea4103aed400b41329b7e7bf767e718a",
+            "FileCRC": "d59a91b2",
+            "FileSize": 704148,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/IceBallBook.png",
+                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Coin.png",
+                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Crystal.png",
+                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Stamina.png",
+                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/ElementalArrowBook.png",
+                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/LaserBook.png",
+                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/RandomSkillBook.png",
+                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/ThunderBook.png",
+                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Exp.png"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_community_ui.bundle",
+            "FileName": "1e1cdf9c2061dcc9b1e7289007a096ef.bundle",
+            "FileHash": "1e1cdf9c2061dcc9b1e7289007a096ef",
+            "FileCRC": "1b4da592",
+            "FileSize": 58993,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/UsingAssets/Sprites/Community/UI/FrameSquareOrange.png",
+                "Assets/UsingAssets/Sprites/Community/UI/SkillNameBg.png",
+                "Assets/UsingAssets/Sprites/Community/UI/SquareYellow.png",
+                "Assets/UsingAssets/Sprites/Community/UI/ButtonSquareYellow.png",
+                "Assets/UsingAssets/Sprites/Community/UI/FrameSquareYellow.png",
+                "Assets/UsingAssets/Sprites/Community/UI/SkillBg.png",
+                "Assets/UsingAssets/Sprites/Community/UI/SkillDescriptionBg.png",
+                "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
+                "Assets/UsingAssets/Sprites/Community/UI/Bar.png",
+                "Assets/UsingAssets/Sprites/Community/UI/button_triangle_left.png",
+                "Assets/UsingAssets/Sprites/Community/UI/button_triangle_right.png"
+            ]
+        },
+        {
             "BundleName": "assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle",
             "FileName": "e1848c8d788eff9f965b1395d4f9b4e7.bundle",
             "FileHash": "e1848c8d788eff9f965b1395d4f9b4e7",
@@ -2272,6 +2413,19 @@
             "AllBuiltinAssets": [
                 "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
                 "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_textmesh pro_fonts.bundle",
+            "FileName": "c8c105429a383f3e7df37d6940e30fb5.bundle",
+            "FileHash": "c8c105429a383f3e7df37d6940e30fb5",
+            "FileCRC": "45d9da42",
+            "FileSize": 227232,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
             ]
         },
         {
@@ -2298,42 +2452,6 @@
             ]
         },
         {
-            "BundleName": "assetspackage_share_assets_usingassets_sprites_community_ui.bundle",
-            "FileName": "1e1cdf9c2061dcc9b1e7289007a096ef.bundle",
-            "FileHash": "1e1cdf9c2061dcc9b1e7289007a096ef",
-            "FileCRC": "1b4da592",
-            "FileSize": 58993,
-            "Encrypted": false,
-            "Tags": [],
-            "DependBundles": [],
-            "AllBuiltinAssets": [
-                "Assets/UsingAssets/Sprites/Community/UI/FrameSquareYellow.png",
-                "Assets/UsingAssets/Sprites/Community/UI/SquareYellow.png",
-                "Assets/UsingAssets/Sprites/Community/UI/SkillBg.png",
-                "Assets/UsingAssets/Sprites/Community/UI/SkillNameBg.png",
-                "Assets/UsingAssets/Sprites/Community/UI/SkillDescriptionBg.png",
-                "Assets/UsingAssets/Sprites/Community/UI/FrameSquareOrange.png",
-                "Assets/UsingAssets/Sprites/Community/UI/ButtonSquareYellow.png",
-                "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
-                "Assets/UsingAssets/Sprites/Community/UI/Bar.png",
-                "Assets/UsingAssets/Sprites/Community/UI/button_triangle_left.png",
-                "Assets/UsingAssets/Sprites/Community/UI/button_triangle_right.png"
-            ]
-        },
-        {
-            "BundleName": "assetspackage_share_assets_textmesh pro_fonts.bundle",
-            "FileName": "c8c105429a383f3e7df37d6940e30fb5.bundle",
-            "FileHash": "c8c105429a383f3e7df37d6940e30fb5",
-            "FileCRC": "45d9da42",
-            "FileSize": 227232,
-            "Encrypted": false,
-            "Tags": [],
-            "DependBundles": [],
-            "AllBuiltinAssets": [
-                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
-            ]
-        },
-        {
             "BundleName": "assetspackage_share_assets_usingassets_sprites_album_skilliconalbum.bundle",
             "FileName": "d2e57d981276b0582491bb842f21e92d.bundle",
             "FileHash": "d2e57d981276b0582491bb842f21e92d",
@@ -2357,6 +2475,53 @@
             ]
         },
         {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle",
+            "FileName": "72d37bfe824b2bc2ca384953ac581b13.bundle",
+            "FileHash": "72d37bfe824b2bc2ca384953ac581b13",
+            "FileCRC": "44f45497",
+            "FileSize": 51722,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/10.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/07.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/08.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/09.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/04.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/02.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/01.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/03.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/06.png",
+                "Assets/UsingAssets/Monster/M_Thunder1/Move/05.png"
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_monster_monsterinfo.bundle",
+            "FileName": "b127d17850ae43c2943912efcb5e8e11.bundle",
+            "FileHash": "b127d17850ae43c2943912efcb5e8e11",
+            "FileCRC": "8b6c7af7",
+            "FileSize": 11071,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "assetspackage_share_assets_usingassets_monster_m_flame1_move.bundle",
+                "assetspackage_share_assets_usingassets_monster_m_ice1_move.bundle",
+                "assetspackage_share_assets_usingassets_monster_m_physics1_move.bundle",
+                "assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Thunder1.controller",
+                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Thunder1.anim",
+                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Ice1.controller",
+                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Ice1.anim",
+                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Physics1.controller",
+                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Physics1.anim",
+                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Flame1.controller",
+                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Flame1.anim"
+            ]
+        },
+        {
             "BundleName": "assetspackage_share_assets_usingassets_effect_getbossbonus.bundle",
             "FileName": "f9f7dcac2108adebd68ef1634f9f415d.bundle",
             "FileHash": "f9f7dcac2108adebd68ef1634f9f415d",
@@ -2369,27 +2534,6 @@
                 "Assets/UsingAssets/Effect/GetBossBonus/GetBossBonus.controller",
                 "Assets/UsingAssets/Effect/GetBossBonus/GetBossBonus.png",
                 "Assets/UsingAssets/Effect/GetBossBonus/GetBossBonus.anim"
-            ]
-        },
-        {
-            "BundleName": "assetspackage_share_assets_usingassets_sprites_album_currencyalbum.bundle",
-            "FileName": "ea4103aed400b41329b7e7bf767e718a.bundle",
-            "FileHash": "ea4103aed400b41329b7e7bf767e718a",
-            "FileCRC": "d59a91b2",
-            "FileSize": 704148,
-            "Encrypted": false,
-            "Tags": [],
-            "DependBundles": [],
-            "AllBuiltinAssets": [
-                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Coin.png",
-                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/IceBallBook.png",
-                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Crystal.png",
-                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Stamina.png",
-                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/ElementalArrowBook.png",
-                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/LaserBook.png",
-                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/RandomSkillBook.png",
-                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/ThunderBook.png",
-                "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Exp.png"
             ]
         },
         {
@@ -2409,16 +2553,17 @@
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_sprites_album_commonalbum.bundle",
-            "FileName": "bc81a929edbda864290f7a66a4a158c7.bundle",
-            "FileHash": "bc81a929edbda864290f7a66a4a158c7",
-            "FileCRC": "1ce3d7e4",
-            "FileSize": 18509,
+            "FileName": "c519ea7ec2c6f245870f2411815738ec.bundle",
+            "FileHash": "c519ea7ec2c6f245870f2411815738ec",
+            "FileCRC": "6890d286",
+            "FileSize": 21809,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
             "AllBuiltinAssets": [
                 "Assets/UsingAssets/Sprites/Album/CommonAlbum/Star.png",
                 "Assets/UsingAssets/Sprites/Album/CommonAlbum/Treasure_Close.png",
+                "Assets/UsingAssets/Sprites/Album/CommonAlbum/Advertise.png",
                 "Assets/UsingAssets/Sprites/Album/CommonAlbum/Treasure_Open.png"
             ]
         },
@@ -2488,31 +2633,6 @@
                 "Assets/UsingAssets/Monster/M_Ice1/Move/07.png",
                 "Assets/UsingAssets/Monster/M_Ice1/Move/06.png",
                 "Assets/UsingAssets/Monster/M_Ice1/Move/05.png"
-            ]
-        },
-        {
-            "BundleName": "assetspackage_share_assets_usingassets_monster_monsterinfo.bundle",
-            "FileName": "b127d17850ae43c2943912efcb5e8e11.bundle",
-            "FileHash": "b127d17850ae43c2943912efcb5e8e11",
-            "FileCRC": "8b6c7af7",
-            "FileSize": 11071,
-            "Encrypted": false,
-            "Tags": [],
-            "DependBundles": [
-                "assetspackage_share_assets_usingassets_monster_m_flame1_move.bundle",
-                "assetspackage_share_assets_usingassets_monster_m_ice1_move.bundle",
-                "assetspackage_share_assets_usingassets_monster_m_physics1_move.bundle",
-                "assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle"
-            ],
-            "AllBuiltinAssets": [
-                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Ice1.controller",
-                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Ice1.anim",
-                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Physics1.controller",
-                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Physics1.anim",
-                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Flame1.controller",
-                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Thunder1.controller",
-                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Flame1.anim",
-                "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Thunder1.anim"
             ]
         },
         {
@@ -2668,10 +2788,10 @@
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_sprites_lobby_userinfo.bundle",
-            "FileName": "da7ca846a9023d7a41fbfac86aa75734.bundle",
-            "FileHash": "da7ca846a9023d7a41fbfac86aa75734",
-            "FileCRC": "9b9734fc",
-            "FileSize": 15556,
+            "FileName": "ffab1f3e3f03047beb4318ba1499c14a.bundle",
+            "FileHash": "ffab1f3e3f03047beb4318ba1499c14a",
+            "FileCRC": "d9069d8d",
+            "FileSize": 18983,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -2781,28 +2901,6 @@
                 "Assets/UsingAssets/Hero/Hero3/12.png",
                 "Assets/UsingAssets/Hero/Hero3/07.png",
                 "Assets/UsingAssets/Hero/Hero3/11.png"
-            ]
-        },
-        {
-            "BundleName": "assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle",
-            "FileName": "72d37bfe824b2bc2ca384953ac581b13.bundle",
-            "FileHash": "72d37bfe824b2bc2ca384953ac581b13",
-            "FileCRC": "44f45497",
-            "FileSize": 51722,
-            "Encrypted": false,
-            "Tags": [],
-            "DependBundles": [],
-            "AllBuiltinAssets": [
-                "Assets/UsingAssets/Monster/M_Thunder1/Move/07.png",
-                "Assets/UsingAssets/Monster/M_Thunder1/Move/08.png",
-                "Assets/UsingAssets/Monster/M_Thunder1/Move/09.png",
-                "Assets/UsingAssets/Monster/M_Thunder1/Move/04.png",
-                "Assets/UsingAssets/Monster/M_Thunder1/Move/02.png",
-                "Assets/UsingAssets/Monster/M_Thunder1/Move/01.png",
-                "Assets/UsingAssets/Monster/M_Thunder1/Move/03.png",
-                "Assets/UsingAssets/Monster/M_Thunder1/Move/06.png",
-                "Assets/UsingAssets/Monster/M_Thunder1/Move/05.png",
-                "Assets/UsingAssets/Monster/M_Thunder1/Move/10.png"
             ]
         },
         {
@@ -3098,15 +3196,16 @@
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_audioclip_sound_common.bundle",
-            "FileName": "487f57e78cb042753055d9519ca0cc06.bundle",
-            "FileHash": "487f57e78cb042753055d9519ca0cc06",
-            "FileCRC": "f536146f",
-            "FileSize": 35072,
+            "FileName": "de2fbb3f762eacfc7ab0200641258851.bundle",
+            "FileHash": "de2fbb3f762eacfc7ab0200641258851",
+            "FileCRC": "aff3e6a8",
+            "FileSize": 100657,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
             "AllBuiltinAssets": [
-                "Assets/UsingAssets/AudioClip/Sound/Common/ButtonClick.mp3"
+                "Assets/UsingAssets/AudioClip/Sound/Common/ButtonClick.mp3",
+                "Assets/UsingAssets/AudioClip/Sound/Common/CongratulationsOnGetting.mp3"
             ]
         },
         {

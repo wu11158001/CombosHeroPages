@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.1.1",
         "UnityVersion": "2021.3.43f1",
-        "BuildDate": "2024/10/24 下午 10:34:38",
+        "BuildDate": "2024/10/27 上午 07:33:32",
         "BuildSeconds": 0,
         "BuildTarget": 13,
         "BuildMode": 0,
         "BuildPipeline": "RawFileBuildPipeline",
         "BuildPackageName": "HotFixPackage",
-        "BuildPackageVersion": "2024-10-24-1354",
+        "BuildPackageVersion": "2024-10-27-453",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -24,7 +24,7 @@
         "AssetFileTotalCount": 9,
         "MainAssetTotalCount": 9,
         "AllBundleTotalCount": 9,
-        "AllBundleTotalSize": 6493696,
+        "AllBundleTotalSize": 6521856,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -44,7 +44,7 @@
             "AssetGUID": "8ba49751e7a0ac54ea98bc18d00b0053",
             "AssetTags": [],
             "MainBundleName": "hotfixpackage_assets_hotfixassets_dll_hotfix_dll_bytes.rawfile",
-            "MainBundleSize": 160256,
+            "MainBundleSize": 171520,
             "DependAssets": []
         },
         {
@@ -89,7 +89,7 @@
             "AssetGUID": "9f8aa77b39103c0449c4cad739c008a4",
             "AssetTags": [],
             "MainBundleName": "hotfixpackage_assets_hotfixassets_aot_unityengine_coremodule_dll_bytes.rawfile",
-            "MainBundleSize": 471552,
+            "MainBundleSize": 488448,
             "DependAssets": []
         },
         {
@@ -114,9 +114,9 @@
     "BundleInfos": [
         {
             "BundleName": "hotfixpackage_assets_hotfixassets_dll_assembly-csharp_dll_bytes.rawfile",
-            "FileName": "bb07ae51e3de68dde5c192f9dd75dc5a.rawfile",
-            "FileHash": "bb07ae51e3de68dde5c192f9dd75dc5a",
-            "FileCRC": "acaed4c1",
+            "FileName": "3b492f41fbb6993d396acaed7a447c5c.rawfile",
+            "FileHash": "3b492f41fbb6993d396acaed7a447c5c",
+            "FileCRC": "30d686dd",
             "FileSize": 102400,
             "Encrypted": false,
             "Tags": [],
@@ -127,10 +127,10 @@
         },
         {
             "BundleName": "hotfixpackage_assets_hotfixassets_dll_hotfix_dll_bytes.rawfile",
-            "FileName": "bdf5774c989e71325e064edc84c45f9e.rawfile",
-            "FileHash": "bdf5774c989e71325e064edc84c45f9e",
-            "FileCRC": "0784a382",
-            "FileSize": 160256,
+            "FileName": "c4fb9a20d74e1fe89cdf1699228c51d2.rawfile",
+            "FileHash": "c4fb9a20d74e1fe89cdf1699228c51d2",
+            "FileCRC": "1b1a85f3",
+            "FileSize": 171520,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -192,10 +192,10 @@
         },
         {
             "BundleName": "hotfixpackage_assets_hotfixassets_aot_unityengine_coremodule_dll_bytes.rawfile",
-            "FileName": "d773be05c8be6fe9c2d9a83052d682c7.rawfile",
-            "FileHash": "d773be05c8be6fe9c2d9a83052d682c7",
-            "FileCRC": "bfdac6b9",
-            "FileSize": 471552,
+            "FileName": "e46b2b6652a455775dcbcfd0be7f931f.rawfile",
+            "FileHash": "e46b2b6652a455775dcbcfd0be7f931f",
+            "FileCRC": "931104fd",
+            "FileSize": 488448,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],

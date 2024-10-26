@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "AssetsPackage",
-    "PackageVersion": "2024-10-24-1346",
+    "PackageVersion": "2024-10-27-453",
     "AssetList": [
         {
             "Address": "Damage_MeshText",
@@ -114,8 +114,22 @@
             "BundleID": 2
         },
         {
+            "Address": "CongratulationsOnGettingView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/CongratulationsOnGettingView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
             "Address": "CurrencyInfoView",
             "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/CurrencyInfoView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "CurrencyValueChangeView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/CurrencyValueChangeView.prefab",
             "AssetGUID": "",
             "AssetTags": [],
             "BundleID": 3
@@ -144,6 +158,13 @@
         {
             "Address": "TipMsgView",
             "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/TipMsgView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "WaitMaskView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Common/WaitMaskView.prefab",
             "AssetGUID": "",
             "AssetTags": [],
             "BundleID": 3
@@ -207,6 +228,13 @@
         {
             "Address": "BattleView",
             "AssetPath": "Assets/HotFixAssets/Prefab/View/Lobby/BattleView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "BuyStaminaView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Lobby/BuyStaminaView.prefab",
             "AssetGUID": "",
             "AssetTags": [],
             "BundleID": 5
@@ -416,10 +444,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_skillobj.bundle",
-            "UnityCRC": 2531161501,
-            "FileHash": "29f7db9fd90d519a19038b4add318111",
-            "FileCRC": "b7a48822",
-            "FileSize": 31691,
+            "UnityCRC": 3795400026,
+            "FileHash": "05f57650dc39ffaef7506eb813068ac5",
+            "FileCRC": "a72e7448",
+            "FileSize": 31696,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
@@ -449,19 +477,25 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "UnityCRC": 2306912379,
-            "FileHash": "13763e0e1ac2deb2966484f49eba4cfa",
-            "FileCRC": "9e9356b4",
-            "FileSize": 16145,
+            "UnityCRC": 939828351,
+            "FileHash": "5246d42b4962fa8136b538006dd2c658",
+            "FileCRC": "e7dbe6f2",
+            "FileSize": 20467,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
                 41,
-                38,
+                40,
+                63,
+                52,
                 22,
+                23,
+                44,
+                45,
+                38,
+                43,
                 42,
                 39,
-                40,
                 14,
                 15,
                 12
@@ -469,31 +503,31 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "UnityCRC": 2537527233,
-            "FileHash": "a2fe6caedd5d16708b945b03e368135c",
-            "FileCRC": "85325528",
-            "FileSize": 38095,
+            "UnityCRC": 1060490349,
+            "FileHash": "b01c78bbec95e14c7f32393d46ac3b6e",
+            "FileCRC": "4f352bf0",
+            "FileSize": 38092,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
                 41,
-                38,
-                43,
-                49,
-                48,
-                45,
-                63,
+                40,
+                46,
+                51,
                 50,
+                47,
+                63,
+                52,
                 22,
                 23,
-                62,
-                51,
-                46,
                 44,
+                45,
+                48,
+                38,
+                43,
                 42,
+                49,
                 39,
-                47,
-                40,
                 17,
                 14,
                 15,
@@ -502,33 +536,33 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "UnityCRC": 4137724052,
-            "FileHash": "60fbeaa92da32e086bd94b25fd4dc928",
-            "FileCRC": "336d2fc5",
-            "FileSize": 54675,
+            "UnityCRC": 3400536479,
+            "FileHash": "4d34de5e5335f7ce668b9eba8a016a94",
+            "FileCRC": "0b62e1bb",
+            "FileSize": 57913,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
                 41,
-                38,
-                54,
-                57,
+                40,
+                55,
+                58,
                 63,
-                50,
+                52,
                 22,
                 23,
-                62,
-                51,
-                56,
-                52,
-                46,
                 44,
-                55,
+                45,
+                57,
+                53,
+                48,
+                38,
+                56,
+                43,
                 42,
                 39,
-                40,
-                53,
-                58,
+                54,
+                59,
                 14,
                 15,
                 12
@@ -546,10 +580,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "UnityCRC": 2732042966,
-            "FileHash": "bbe3e12373e7d985d334434c2ac9418e",
-            "FileCRC": "b985e42d",
-            "FileSize": 6708,
+            "UnityCRC": 419482802,
+            "FileHash": "b169f740c9a2efb33b0a2082f37198e9",
+            "FileCRC": "e3cc7774",
+            "FileSize": 6870,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -564,9 +598,9 @@
             "Tags": [],
             "DependIDs": [
                 16,
-                59,
                 60,
                 61,
+                62,
                 71,
                 67,
                 69,
@@ -574,7 +608,7 @@
                 68,
                 70,
                 64,
-                50,
+                52,
                 20,
                 21,
                 22,
@@ -582,16 +616,16 @@
                 72,
                 66,
                 65,
-                62,
-                51
+                44,
+                45
             ]
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_album_audioclipalbum.bundle",
-            "UnityCRC": 656484476,
-            "FileHash": "1bf3b85cbda35cdd03804bdd3ac5c863",
-            "FileCRC": "33990a7a",
-            "FileSize": 2851,
+            "UnityCRC": 1570441605,
+            "FileHash": "938546d052bbb26cd9566f6937787666",
+            "FileCRC": "682d8e99",
+            "FileSize": 2891,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
@@ -618,19 +652,19 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_album_spritealbum.bundle",
-            "UnityCRC": 469061621,
-            "FileHash": "8a0f94c9e8e82ea002b58770f99ca446",
-            "FileCRC": "e32806c3",
-            "FileSize": 3371,
+            "UnityCRC": 892611790,
+            "FileHash": "e4302529ee30e0989b0bdafc1d2a568d",
+            "FileCRC": "879d9b2a",
+            "FileSize": 3395,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
+                57,
+                53,
+                48,
+                38,
                 56,
-                52,
-                46,
-                44,
-                55,
-                42
+                43
             ]
         },
         {
@@ -903,24 +937,11 @@
             "DependIDs": []
         },
         {
-            "BundleName": "assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle",
-            "UnityCRC": 2972891042,
-            "FileHash": "e1848c8d788eff9f965b1395d4f9b4e7",
-            "FileCRC": "b1b71313",
-            "FileSize": 373519,
-            "Encrypted": false,
-            "Tags": [],
-            "DependIDs": [
-                41,
-                12
-            ]
-        },
-        {
-            "BundleName": "assetspackage_share_assets_usingassets_sprites_community_other.bundle",
-            "UnityCRC": 2715195154,
-            "FileHash": "9110d43aab7f219e7fc7fe81db434e92",
-            "FileCRC": "3218d42b",
-            "FileSize": 38795,
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_album_currencyalbum.bundle",
+            "UnityCRC": 1536874292,
+            "FileHash": "ea4103aed400b41329b7e7bf767e718a",
+            "FileCRC": "d59a91b2",
+            "FileSize": 704148,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -936,11 +957,34 @@
             "DependIDs": []
         },
         {
+            "BundleName": "assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle",
+            "UnityCRC": 2972891042,
+            "FileHash": "e1848c8d788eff9f965b1395d4f9b4e7",
+            "FileCRC": "b1b71313",
+            "FileSize": 373519,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                41,
+                12
+            ]
+        },
+        {
             "BundleName": "assetspackage_share_assets_textmesh pro_fonts.bundle",
             "UnityCRC": 2535523511,
             "FileHash": "c8c105429a383f3e7df37d6940e30fb5",
             "FileCRC": "45d9da42",
             "FileSize": 227232,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_community_other.bundle",
+            "UnityCRC": 2715195154,
+            "FileHash": "9110d43aab7f219e7fc7fe81db434e92",
+            "FileCRC": "3218d42b",
+            "FileSize": 38795,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -956,21 +1000,36 @@
             "DependIDs": []
         },
         {
-            "BundleName": "assetspackage_share_assets_usingassets_effect_getbossbonus.bundle",
-            "UnityCRC": 1256783964,
-            "FileHash": "f9f7dcac2108adebd68ef1634f9f415d",
-            "FileCRC": "f5af6cbd",
-            "FileSize": 55837,
+            "BundleName": "assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle",
+            "UnityCRC": 2726049268,
+            "FileHash": "72d37bfe824b2bc2ca384953ac581b13",
+            "FileCRC": "44f45497",
+            "FileSize": 51722,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
         },
         {
-            "BundleName": "assetspackage_share_assets_usingassets_sprites_album_currencyalbum.bundle",
-            "UnityCRC": 1536874292,
-            "FileHash": "ea4103aed400b41329b7e7bf767e718a",
-            "FileCRC": "d59a91b2",
-            "FileSize": 704148,
+            "BundleName": "assetspackage_share_assets_usingassets_monster_monsterinfo.bundle",
+            "UnityCRC": 1633445060,
+            "FileHash": "b127d17850ae43c2943912efcb5e8e11",
+            "FileCRC": "8b6c7af7",
+            "FileSize": 11071,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                63,
+                52,
+                23,
+                44
+            ]
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_effect_getbossbonus.bundle",
+            "UnityCRC": 1256783964,
+            "FileHash": "f9f7dcac2108adebd68ef1634f9f415d",
+            "FileCRC": "f5af6cbd",
+            "FileSize": 55837,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -987,10 +1046,10 @@
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_sprites_album_commonalbum.bundle",
-            "UnityCRC": 665689935,
-            "FileHash": "bc81a929edbda864290f7a66a4a158c7",
-            "FileCRC": "1ce3d7e4",
-            "FileSize": 18509,
+            "UnityCRC": 2604737250,
+            "FileHash": "c519ea7ec2c6f245870f2411815738ec",
+            "FileCRC": "6890d286",
+            "FileSize": 21809,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -1014,7 +1073,7 @@
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
-                43
+                46
             ]
         },
         {
@@ -1036,21 +1095,6 @@
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
-        },
-        {
-            "BundleName": "assetspackage_share_assets_usingassets_monster_monsterinfo.bundle",
-            "UnityCRC": 1633445060,
-            "FileHash": "b127d17850ae43c2943912efcb5e8e11",
-            "FileCRC": "8b6c7af7",
-            "FileSize": 11071,
-            "Encrypted": false,
-            "Tags": [],
-            "DependIDs": [
-                63,
-                50,
-                23,
-                62
-            ]
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_sprites_album_chapteralbum.bundle",
@@ -1114,10 +1158,10 @@
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_sprites_lobby_userinfo.bundle",
-            "UnityCRC": 430809697,
-            "FileHash": "da7ca846a9023d7a41fbfac86aa75734",
-            "FileCRC": "9b9734fc",
-            "FileSize": 15556,
+            "UnityCRC": 4109057076,
+            "FileHash": "ffab1f3e3f03047beb4318ba1499c14a",
+            "FileCRC": "d9069d8d",
+            "FileSize": 18983,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -1148,16 +1192,6 @@
             "FileHash": "a29ffba9222998761461e65c56de5fd5",
             "FileCRC": "d5156b18",
             "FileSize": 106226,
-            "Encrypted": false,
-            "Tags": [],
-            "DependIDs": []
-        },
-        {
-            "BundleName": "assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle",
-            "UnityCRC": 2726049268,
-            "FileHash": "72d37bfe824b2bc2ca384953ac581b13",
-            "FileCRC": "44f45497",
-            "FileSize": 51722,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -1223,7 +1257,7 @@
             "DependIDs": [
                 70,
                 64,
-                50
+                52
             ]
         },
         {
@@ -1271,7 +1305,7 @@
             "DependIDs": [
                 66,
                 65,
-                62
+                44
             ]
         },
         {
@@ -1296,10 +1330,10 @@
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_audioclip_sound_common.bundle",
-            "UnityCRC": 571204906,
-            "FileHash": "487f57e78cb042753055d9519ca0cc06",
-            "FileCRC": "f536146f",
-            "FileSize": 35072,
+            "UnityCRC": 3211811358,
+            "FileHash": "de2fbb3f762eacfc7ab0200641258851",
+            "FileCRC": "aff3e6a8",
+            "FileSize": 100657,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
