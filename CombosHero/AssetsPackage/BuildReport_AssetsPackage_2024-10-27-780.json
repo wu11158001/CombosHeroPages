@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.1.1",
         "UnityVersion": "2021.3.43f1",
-        "BuildDate": "2024/10/27 上午 07:34:19",
-        "BuildSeconds": 32,
+        "BuildDate": "2024/10/27 下午 01:01:30",
+        "BuildSeconds": 29,
         "BuildTarget": 13,
         "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildPackageName": "AssetsPackage",
-        "BuildPackageVersion": "2024-10-27-453",
+        "BuildPackageVersion": "2024-10-27-780",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -24,7 +24,7 @@
         "AssetFileTotalCount": 580,
         "MainAssetTotalCount": 58,
         "AllBundleTotalCount": 77,
-        "AllBundleTotalSize": 107916954,
+        "AllBundleTotalSize": 107915806,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -310,7 +310,7 @@
             "AssetGUID": "0b5d617c5a1041841a9bb45d24719249",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 20467,
+            "MainBundleSize": 19287,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/IceBallBook.png",
                 "Assets/UsingAssets/TMPFonts/Material/思源宋體-Medium.asset",
@@ -334,7 +334,7 @@
             "AssetGUID": "8d83ac8c0958b0346a2653ed307def66",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 20467,
+            "MainBundleSize": 19287,
             "DependAssets": [
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
@@ -353,7 +353,7 @@
             "AssetGUID": "28664fd95f6685e4f91eb39307bb4914",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 20467,
+            "MainBundleSize": 19287,
             "DependAssets": [
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
@@ -370,8 +370,10 @@
             "AssetGUID": "b423ae866da833b4281abffa546b7635",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 20467,
-            "DependAssets": []
+            "MainBundleSize": 19287,
+            "DependAssets": [
+                "Assets/UsingAssets/Sprites/Community/UI/FrameSquareYellow.png"
+            ]
         },
         {
             "Address": "MonsterInfoView",
@@ -379,7 +381,7 @@
             "AssetGUID": "4fb5b533ca31ea940a9870a2fa03435b",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 20467,
+            "MainBundleSize": 19287,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Line1.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -399,7 +401,7 @@
             "AssetGUID": "a4496b7d8a78afb4b9aa5c1d7aacff76",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 20467,
+            "MainBundleSize": 19287,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -421,7 +423,7 @@
             "AssetGUID": "cdc2212d63506cb4891d4e04ec4856ed",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 20467,
+            "MainBundleSize": 19287,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -439,7 +441,7 @@
             "AssetGUID": "a1ca8637f0e0b464583554dc152e2657",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 20467,
+            "MainBundleSize": 19287,
             "DependAssets": [
                 "Assets/UsingAssets/Monster/M_Thunder1/Move/10.png",
                 "Assets/UsingAssets/Monster/M_Thunder1/Move/07.png",
@@ -449,6 +451,7 @@
                 "Assets/UsingAssets/Monster/M_Thunder1/Move/04.png",
                 "Assets/UsingAssets/Monster/M_Thunder1/Move/02.png",
                 "Assets/UsingAssets/Monster/M_Thunder1/Move/01.png",
+                "Assets/UsingAssets/Sprites/Community/UI/FrameSquareYellow.png",
                 "Assets/UsingAssets/Monster/M_Thunder1/Move/03.png",
                 "Assets/UsingAssets/Monster/M_Thunder1/Move/06.png",
                 "Assets/UsingAssets/Monster/MonsterInfo/Info_M_Thunder1.anim",
@@ -461,7 +464,7 @@
             "AssetGUID": "b89830c35087fa34ca1270af9cad9e96",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38092,
+            "MainBundleSize": 38070,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/UsingAssets/TMPFonts/Material/思源宋體-Medium.asset",
@@ -494,7 +497,7 @@
             "AssetGUID": "625539056456a184a8ca731627b94b12",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38092,
+            "MainBundleSize": 38070,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/FrameSquareOrange.png",
                 "Assets/UsingAssets/Sprites/Album/SkillIconAlbum/BouncyBall.png",
@@ -516,7 +519,7 @@
             "AssetGUID": "3daf3180bfd826a47be2fc935e7b4c30",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38092,
+            "MainBundleSize": 38070,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -543,7 +546,7 @@
             "AssetGUID": "db53943d7a1ec6c438815f5dcf9f2c17",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38092,
+            "MainBundleSize": 38070,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -574,7 +577,7 @@
             "AssetGUID": "b5cedf22c6ef9da4e93dac5f1c71b92a",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38092,
+            "MainBundleSize": 38070,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
@@ -610,7 +613,7 @@
             "AssetGUID": "2e2d033464cb02f468bb001996541f91",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38092,
+            "MainBundleSize": 38070,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -633,7 +636,7 @@
             "AssetGUID": "4c062a28050eb624396b96cbce1603e8",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38092,
+            "MainBundleSize": 38070,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/SegoeUI.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -659,7 +662,7 @@
             "AssetGUID": "3e2e94209ec7d9348aecb5316734b8b2",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38092,
+            "MainBundleSize": 38070,
             "DependAssets": [
                 "Assets/UsingAssets/Monster/M_Ice1/Move/08.png",
                 "Assets/UsingAssets/Monster/M_Ice1/Move/10.png",
@@ -1637,10 +1640,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "FileName": "5246d42b4962fa8136b538006dd2c658.bundle",
-            "FileHash": "5246d42b4962fa8136b538006dd2c658",
-            "FileCRC": "e7dbe6f2",
-            "FileSize": 20467,
+            "FileName": "88289d6cc5f3474136bd757cfe6fbd84.bundle",
+            "FileHash": "88289d6cc5f3474136bd757cfe6fbd84",
+            "FileCRC": "e44bafe6",
+            "FileSize": 19287,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -1673,10 +1676,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "FileName": "b01c78bbec95e14c7f32393d46ac3b6e.bundle",
-            "FileHash": "b01c78bbec95e14c7f32393d46ac3b6e",
-            "FileCRC": "4f352bf0",
-            "FileSize": 38092,
+            "FileName": "7bfcd61f44de7dd02b9947c163f6edc8.bundle",
+            "FileHash": "7bfcd61f44de7dd02b9947c163f6edc8",
+            "FileCRC": "bdb3aa77",
+            "FileSize": 38070,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -2194,10 +2197,10 @@
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_skills_burstbouncyball.bundle",
-            "FileName": "8a991df05566784bb81542dd2407b418.bundle",
-            "FileHash": "8a991df05566784bb81542dd2407b418",
-            "FileCRC": "01b6717c",
-            "FileSize": 62237,
+            "FileName": "71c059457e4e7f9b24c44d04b3281d2f.bundle",
+            "FileHash": "71c059457e4e7f9b24c44d04b3281d2f",
+            "FileCRC": "20dc872f",
+            "FileSize": 62291,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
