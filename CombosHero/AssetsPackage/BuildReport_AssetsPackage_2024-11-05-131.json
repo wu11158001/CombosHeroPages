@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.1.1",
         "UnityVersion": "2021.3.43f1",
-        "BuildDate": "2024/11/5 上午 01:56:48",
+        "BuildDate": "2024/11/5 上午 02:11:47",
         "BuildSeconds": 27,
         "BuildTarget": 13,
         "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildPackageName": "AssetsPackage",
-        "BuildPackageVersion": "2024-11-05-116",
+        "BuildPackageVersion": "2024-11-05-131",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -24,7 +24,7 @@
         "AssetFileTotalCount": 645,
         "MainAssetTotalCount": 69,
         "AllBundleTotalCount": 87,
-        "AllBundleTotalSize": 109653369,
+        "AllBundleTotalSize": 109653386,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -1327,7 +1327,7 @@
             "AssetGUID": "066656f125ee46046a7d63b8c9a85521",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 8118,
+            "MainBundleSize": 8135,
             "DependAssets": []
         },
         {
@@ -1336,7 +1336,7 @@
             "AssetGUID": "0b6ed7435081e314e9d3e335bfb4dc82",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 8118,
+            "MainBundleSize": 8135,
             "DependAssets": []
         },
         {
@@ -1345,7 +1345,7 @@
             "AssetGUID": "ba68b66492ea6c0408cedf13f33be5c2",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 8118,
+            "MainBundleSize": 8135,
             "DependAssets": []
         },
         {
@@ -1354,7 +1354,7 @@
             "AssetGUID": "6270f34999fb8684eb3220b5f51a48c8",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 8118,
+            "MainBundleSize": 8135,
             "DependAssets": []
         },
         {
@@ -2206,10 +2206,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "FileName": "2176141c6b000eb2041c648fb51ca13c.bundle",
-            "FileHash": "2176141c6b000eb2041c648fb51ca13c",
-            "FileCRC": "401d7d8e",
-            "FileSize": 8118,
+            "FileName": "735d141b91177cc3a61eb18dc1766833.bundle",
+            "FileHash": "735d141b91177cc3a61eb18dc1766833",
+            "FileCRC": "79631f50",
+            "FileSize": 8135,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],

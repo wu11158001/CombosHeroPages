@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "AssetsPackage",
-    "PackageVersion": "2024-11-05-116",
+    "PackageVersion": "2024-11-05-131",
     "AssetList": [
         {
             "Address": "Damage_MeshText",
@@ -693,10 +693,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "UnityCRC": 1224523739,
-            "FileHash": "2176141c6b000eb2041c648fb51ca13c",
-            "FileCRC": "401d7d8e",
-            "FileSize": 8118,
+            "UnityCRC": 1872727000,
+            "FileHash": "735d141b91177cc3a61eb18dc1766833",
+            "FileCRC": "79631f50",
+            "FileSize": 8135,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
