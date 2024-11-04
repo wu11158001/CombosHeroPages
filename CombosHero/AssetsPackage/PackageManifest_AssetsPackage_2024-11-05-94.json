@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "AssetsPackage",
-    "PackageVersion": "2024-11-04-1391",
+    "PackageVersion": "2024-11-05-94",
     "AssetList": [
         {
             "Address": "Damage_MeshText",
@@ -563,7 +563,7 @@
             "DependIDs": [
                 42,
                 40,
-                71,
+                72,
                 55,
                 23,
                 24,
@@ -596,7 +596,7 @@
                 54,
                 53,
                 51,
-                71,
+                72,
                 55,
                 23,
                 24,
@@ -616,10 +616,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "UnityCRC": 1547654793,
-            "FileHash": "b7f9ff02f54a620e243d6c1288ca6649",
-            "FileCRC": "5846df83",
-            "FileSize": 89591,
+            "UnityCRC": 1188409316,
+            "FileHash": "3133685dbfb344621c648603c9a8828b",
+            "FileCRC": "1e4269fc",
+            "FileSize": 101489,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
@@ -627,31 +627,33 @@
                 40,
                 59,
                 58,
-                62,
+                63,
                 60,
                 50,
                 54,
-                64,
-                71,
+                66,
+                72,
                 55,
                 23,
                 24,
                 48,
                 49,
                 35,
-                63,
+                64,
                 56,
                 61,
                 46,
                 41,
                 45,
-                44,
                 65,
+                44,
+                67,
+                62,
                 47,
                 43,
                 39,
                 57,
-                66,
+                68,
                 16,
                 17,
                 13
@@ -670,7 +672,7 @@
                 40,
                 50,
                 46,
-                67,
+                65,
                 44,
                 43,
                 39,
@@ -709,24 +711,24 @@
             "Tags": [],
             "DependIDs": [
                 18,
-                68,
                 69,
                 70,
-                79,
-                75,
-                77,
                 71,
+                80,
                 76,
                 78,
                 72,
+                77,
+                79,
+                73,
                 55,
                 21,
                 22,
                 23,
                 24,
-                80,
+                81,
+                75,
                 74,
-                73,
                 48,
                 49
             ]
@@ -740,10 +742,10 @@
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
-                81,
-                59,
                 82,
+                59,
                 83,
+                84,
                 36
             ]
         },
@@ -770,18 +772,18 @@
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
-                63,
+                64,
                 56,
                 61,
                 46,
                 41,
-                85,
-                45,
-                67,
-                44,
-                84,
-                65,
                 86,
+                45,
+                65,
+                44,
+                85,
+                67,
+                62,
                 47,
                 43,
                 39
@@ -1168,7 +1170,7 @@
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
-                71,
+                72,
                 55,
                 24,
                 48
@@ -1278,10 +1280,10 @@
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_effect_light.bundle",
-            "UnityCRC": 2776609946,
-            "FileHash": "5e988f623e715395688c1f820054bd0a",
-            "FileCRC": "dc63071c",
-            "FileSize": 422261,
+            "UnityCRC": 2282441422,
+            "FileHash": "8971a8c0869f1f756b6c78798a14fc76",
+            "FileCRC": "330f29ff",
+            "FileSize": 546389,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -1292,6 +1294,16 @@
             "FileHash": "6ac8b052f0de590d28e5935feddf0526",
             "FileCRC": "3b986f0f",
             "FileSize": 254343,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_album_maskbgalbum.bundle",
+            "UnityCRC": 4254921022,
+            "FileHash": "848b637b2a8fb077e6dcd3c515dd2c08",
+            "FileCRC": "26d508cd",
+            "FileSize": 11463,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -1314,6 +1326,16 @@
             "FileHash": "9bad9eab8e30cbadff5323debe71df7e",
             "FileCRC": "8fe5ff11",
             "FileSize": 28947,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_album_equipalbum_helmet.bundle",
+            "UnityCRC": 2526521931,
+            "FileHash": "147921afcbec000a3294918ca60c658f",
+            "FileCRC": "55a0852d",
+            "FileSize": 268575,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -1344,16 +1366,6 @@
             "FileHash": "ffab1f3e3f03047beb4318ba1499c14a",
             "FileCRC": "d9069d8d",
             "FileSize": 18983,
-            "Encrypted": false,
-            "Tags": [],
-            "DependIDs": []
-        },
-        {
-            "BundleName": "assetspackage_share_assets_usingassets_sprites_album_equipalbum_helmet.bundle",
-            "UnityCRC": 2526521931,
-            "FileHash": "147921afcbec000a3294918ca60c658f",
-            "FileCRC": "55a0852d",
-            "FileSize": 268575,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -1447,8 +1459,8 @@
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
-                78,
-                72,
+                79,
+                73,
                 55
             ]
         },
@@ -1481,9 +1493,9 @@
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
-                75,
-                77,
-                71
+                76,
+                78,
+                72
             ]
         },
         {
@@ -1495,8 +1507,8 @@
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
+                75,
                 74,
-                73,
                 48
             ]
         },
@@ -1546,16 +1558,6 @@
             "FileHash": "d108ae70c9505c071f8259a01a84c4dc",
             "FileCRC": "ebfd3acd",
             "FileSize": 290616,
-            "Encrypted": false,
-            "Tags": [],
-            "DependIDs": []
-        },
-        {
-            "BundleName": "assetspackage_share_assets_usingassets_sprites_album_maskbgalbum.bundle",
-            "UnityCRC": 4254921022,
-            "FileHash": "848b637b2a8fb077e6dcd3c515dd2c08",
-            "FileCRC": "26d508cd",
-            "FileSize": 11463,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
