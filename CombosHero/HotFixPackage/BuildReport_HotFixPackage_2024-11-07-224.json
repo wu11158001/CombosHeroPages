@@ -1,0 +1,234 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.1",
+        "UnityVersion": "2021.3.43f1",
+        "BuildDate": "2024/11/7 上午 03:44:47",
+        "BuildSeconds": 0,
+        "BuildTarget": 13,
+        "BuildMode": 0,
+        "BuildPipeline": "RawFileBuildPipeline",
+        "BuildPackageName": "HotFixPackage",
+        "BuildPackageVersion": "2024-11-07-224",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "IgnoreDefaultType": true,
+        "AutoCollectShaders": true,
+        "EnableSharePackRule": false,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 0,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": false,
+        "AssetFileTotalCount": 9,
+        "MainAssetTotalCount": 9,
+        "AllBundleTotalCount": 9,
+        "AllBundleTotalSize": 6583296,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "Assembly-CSharp.dll",
+            "AssetPath": "Assets/HotFixAssets/DLL/Assembly-CSharp.dll.bytes",
+            "AssetGUID": "4c299303f3ac3f147a810ca49f5395fa",
+            "AssetTags": [],
+            "MainBundleName": "hotfixpackage_assets_hotfixassets_dll_assembly-csharp_dll_bytes.rawfile",
+            "MainBundleSize": 102400,
+            "DependAssets": []
+        },
+        {
+            "Address": "HotFix.dll",
+            "AssetPath": "Assets/HotFixAssets/DLL/HotFix.dll.bytes",
+            "AssetGUID": "8ba49751e7a0ac54ea98bc18d00b0053",
+            "AssetTags": [],
+            "MainBundleName": "hotfixpackage_assets_hotfixassets_dll_hotfix_dll_bytes.rawfile",
+            "MainBundleSize": 238080,
+            "DependAssets": []
+        },
+        {
+            "Address": "LitJson.dll",
+            "AssetPath": "Assets/HotFixAssets/AOT/LitJson.dll.bytes",
+            "AssetGUID": "64dacad4e19447340a4dc18bd9c1daee",
+            "AssetTags": [],
+            "MainBundleName": "hotfixpackage_assets_hotfixassets_aot_litjson_dll_bytes.rawfile",
+            "MainBundleSize": 52224,
+            "DependAssets": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/HotFixAssets/AOT/mscorlib.dll.bytes",
+            "AssetGUID": "fa8a6bad26fe9cb45aa1536727469065",
+            "AssetTags": [],
+            "MainBundleName": "hotfixpackage_assets_hotfixassets_aot_mscorlib_dll_bytes.rawfile",
+            "MainBundleSize": 4397568,
+            "DependAssets": []
+        },
+        {
+            "Address": "Newtonsoft.Json.dll",
+            "AssetPath": "Assets/HotFixAssets/AOT/Newtonsoft.Json.dll.bytes",
+            "AssetGUID": "15d9e214c136c804e8708286ce1d52bf",
+            "AssetTags": [],
+            "MainBundleName": "hotfixpackage_assets_hotfixassets_aot_newtonsoft_json_dll_bytes.rawfile",
+            "MainBundleSize": 688128,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/HotFixAssets/AOT/System.Core.dll.bytes",
+            "AssetGUID": "c5b2722b052e31448ae8cfc71ba7b7d9",
+            "AssetTags": [],
+            "MainBundleName": "hotfixpackage_assets_hotfixassets_aot_system_core_dll_bytes.rawfile",
+            "MainBundleSize": 449536,
+            "DependAssets": []
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/HotFixAssets/AOT/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "9f8aa77b39103c0449c4cad739c008a4",
+            "AssetTags": [],
+            "MainBundleName": "hotfixpackage_assets_hotfixassets_aot_unityengine_coremodule_dll_bytes.rawfile",
+            "MainBundleSize": 491008,
+            "DependAssets": []
+        },
+        {
+            "Address": "UnityEngine.JSONSerializeModule.dll",
+            "AssetPath": "Assets/HotFixAssets/AOT/UnityEngine.JSONSerializeModule.dll.bytes",
+            "AssetGUID": "219e29ba636cf264ab2d0637b8a787bb",
+            "AssetTags": [],
+            "MainBundleName": "hotfixpackage_assets_hotfixassets_aot_unityengine_jsonserializemodule_dll_bytes.rawfile",
+            "MainBundleSize": 11264,
+            "DependAssets": []
+        },
+        {
+            "Address": "YooAsset.dll",
+            "AssetPath": "Assets/HotFixAssets/AOT/YooAsset.dll.bytes",
+            "AssetGUID": "4fc6478c5a3fc13499a2cc44f3523b24",
+            "AssetTags": [],
+            "MainBundleName": "hotfixpackage_assets_hotfixassets_aot_yooasset_dll_bytes.rawfile",
+            "MainBundleSize": 153088,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "hotfixpackage_assets_hotfixassets_dll_assembly-csharp_dll_bytes.rawfile",
+            "FileName": "f48680440ed07f3e9247665cc0eb38ea.rawfile",
+            "FileHash": "f48680440ed07f3e9247665cc0eb38ea",
+            "FileCRC": "a9b10aa1",
+            "FileSize": 102400,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/DLL/Assembly-CSharp.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "hotfixpackage_assets_hotfixassets_dll_hotfix_dll_bytes.rawfile",
+            "FileName": "25bd748dd97b9057f35b129fd714d776.rawfile",
+            "FileHash": "25bd748dd97b9057f35b129fd714d776",
+            "FileCRC": "c2bf242c",
+            "FileSize": 238080,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/DLL/HotFix.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "hotfixpackage_assets_hotfixassets_aot_litjson_dll_bytes.rawfile",
+            "FileName": "01984991a565c454698f795a11ce07cc.rawfile",
+            "FileHash": "01984991a565c454698f795a11ce07cc",
+            "FileCRC": "2ae21bbe",
+            "FileSize": 52224,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/AOT/LitJson.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "hotfixpackage_assets_hotfixassets_aot_mscorlib_dll_bytes.rawfile",
+            "FileName": "8f2404d12b7297d2a0dc47f4f6cc93cb.rawfile",
+            "FileHash": "8f2404d12b7297d2a0dc47f4f6cc93cb",
+            "FileCRC": "b67b27f6",
+            "FileSize": 4397568,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/AOT/mscorlib.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "hotfixpackage_assets_hotfixassets_aot_newtonsoft_json_dll_bytes.rawfile",
+            "FileName": "bfeebc9de279c015c9ad2cf299f6604a.rawfile",
+            "FileHash": "bfeebc9de279c015c9ad2cf299f6604a",
+            "FileCRC": "1f27e7bd",
+            "FileSize": 688128,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/AOT/Newtonsoft.Json.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "hotfixpackage_assets_hotfixassets_aot_system_core_dll_bytes.rawfile",
+            "FileName": "60878dd2abd25ed5d9f66ac1e61edb75.rawfile",
+            "FileHash": "60878dd2abd25ed5d9f66ac1e61edb75",
+            "FileCRC": "5f26e76f",
+            "FileSize": 449536,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/AOT/System.Core.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "hotfixpackage_assets_hotfixassets_aot_unityengine_coremodule_dll_bytes.rawfile",
+            "FileName": "383c1464dd897218256f2fa27b98f703.rawfile",
+            "FileHash": "383c1464dd897218256f2fa27b98f703",
+            "FileCRC": "db10d767",
+            "FileSize": 491008,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/AOT/UnityEngine.CoreModule.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "hotfixpackage_assets_hotfixassets_aot_unityengine_jsonserializemodule_dll_bytes.rawfile",
+            "FileName": "33d38b0946a86b992efac1ffd3a979c5.rawfile",
+            "FileHash": "33d38b0946a86b992efac1ffd3a979c5",
+            "FileCRC": "b05ff657",
+            "FileSize": 11264,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/AOT/UnityEngine.JSONSerializeModule.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "hotfixpackage_assets_hotfixassets_aot_yooasset_dll_bytes.rawfile",
+            "FileName": "25c8537505dd2c38581a14c0f5d59db1.rawfile",
+            "FileHash": "25c8537505dd2c38581a14c0f5d59db1",
+            "FileCRC": "6e0b10c3",
+            "FileSize": 153088,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotFixAssets/AOT/YooAsset.dll.bytes"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}
