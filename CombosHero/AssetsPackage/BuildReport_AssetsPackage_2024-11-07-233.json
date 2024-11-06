@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.1.1",
         "UnityVersion": "2021.3.43f1",
-        "BuildDate": "2024/11/7 上午 03:45:28",
-        "BuildSeconds": 26,
+        "BuildDate": "2024/11/7 上午 03:53:56",
+        "BuildSeconds": 22,
         "BuildTarget": 13,
         "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildPackageName": "AssetsPackage",
-        "BuildPackageVersion": "2024-11-07-224",
+        "BuildPackageVersion": "2024-11-07-233",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -24,7 +24,7 @@
         "AssetFileTotalCount": 642,
         "MainAssetTotalCount": 69,
         "AllBundleTotalCount": 87,
-        "AllBundleTotalSize": 83844804,
+        "AllBundleTotalSize": 83844791,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -722,7 +722,7 @@
             "AssetGUID": "22380cabe2d9872408bef18cfc7007bc",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 113290,
+            "MainBundleSize": 113277,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Album/CommonAlbum/Treasure_Close.png",
                 "Assets/UsingAssets/Sprites/Community/UI/button_triangle_left.png",
@@ -742,7 +742,7 @@
             "AssetGUID": "d570db5fb2c4ffb47a5479680f651b0d",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 113290,
+            "MainBundleSize": 113277,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Crystal.png",
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Stamina.png",
@@ -765,7 +765,7 @@
             "AssetGUID": "5e3dde1350d6ed94db86ed5a62146b19",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 113290,
+            "MainBundleSize": 113277,
             "DependAssets": [
                 "Assets/UsingAssets/Monster/M_Ice1/Move/08.png",
                 "Assets/UsingAssets/Monster/M_Ice1/Move/10.png",
@@ -799,7 +799,7 @@
             "AssetGUID": "68518b9e4c4896147a02807b787ea26f",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 113290,
+            "MainBundleSize": 113277,
             "DependAssets": [
                 "Assets/UsingAssets/Effect/ChestOpenEffect/EquipChest/EquipChestEffect.anim",
                 "Assets/UsingAssets/AudioClip/Sound/Common/Shake.mp3",
@@ -877,7 +877,7 @@
             "AssetGUID": "c788101edcb7e12468c447e2d7f71881",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 113290,
+            "MainBundleSize": 113277,
             "DependAssets": [
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown Icon.psd",
                 "Assets/UsingAssets/Sprites/Album/EquipAlbum/TypeIcon/ArmorIcon.png",
@@ -936,7 +936,7 @@
             "AssetGUID": "0240164a85c70114bb21992ac06a8a7b",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 113290,
+            "MainBundleSize": 113277,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/Sprites/Album/EquipAlbum/TypeIcon/ArmorIcon.png",
@@ -970,7 +970,7 @@
             "AssetGUID": "d86e40ea5c4082947bb9f411ded8b13e",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 113290,
+            "MainBundleSize": 113277,
             "DependAssets": [
                 "Assets/UsingAssets/Effect/Light/burst0047.png",
                 "Assets/UsingAssets/TMPFonts/Material/思源宋體-Medium.asset",
@@ -1055,7 +1055,7 @@
             "AssetGUID": "7009b447820dffb4ca8bb23f88a8f216",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 113290,
+            "MainBundleSize": 113277,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Crystal.png",
@@ -1084,9 +1084,8 @@
             "AssetGUID": "4c81100a143b1224eb8a838ec2cd0e3e",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 113290,
+            "MainBundleSize": 113277,
             "DependAssets": [
-                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf",
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Crystal.png",
                 "Assets/UsingAssets/TMPFonts/Material/思源宋體-Medium.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -1101,17 +1100,17 @@
                 "Assets/UsingAssets/Sprites/Community/Other/RedPoint.png",
                 "Assets/UsingAssets/Sprites/Community/Other/Icon_Check_Tick.png",
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Coin.png",
-                "Assets/UsingAssets/Sprites/Community/UI/SquareBlue.png",
-                "Assets/UsingAssets/Sprites/Community/UI/SkillNameBg.png",
                 "Assets/UsingAssets/TMPFonts/Fonts/SourceHanSerifTC-Medium.otf",
+                "Assets/UsingAssets/Sprites/Community/UI/SkillNameBg.png",
                 "Assets/UsingAssets/Sprites/Community/UI/Bar.png",
-                "Assets/UsingAssets/Sprites/Community/UI/SquareYellow.png",
                 "Assets/UsingAssets/Sprites/Community/Other/Line2.png",
+                "Assets/UsingAssets/Sprites/Community/UI/SquareYellow.png",
                 "Assets/UsingAssets/Sprites/Community/UI/ButtonSquareYellow.png",
-                "Assets/UsingAssets/Sprites/Lobby/LobbyItemBg.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Gold.png",
                 "Assets/UsingAssets/Sprites/Community/UI/FrameSquareYellow.png",
-                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
+                "Assets/UsingAssets/Sprites/Lobby/LobbyItemBg.png",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
             ]
         },
         {
@@ -1120,7 +1119,7 @@
             "AssetGUID": "b301ee64b644f20459b293ba6d074d95",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 113290,
+            "MainBundleSize": 113277,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Line1.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -1141,7 +1140,7 @@
             "AssetGUID": "8d8f7f13e8900954b819cd484c582d36",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 113290,
+            "MainBundleSize": 113277,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd",
@@ -1156,7 +1155,7 @@
             "AssetGUID": "5861bee8692c1bf4f85b6804518aa590",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 113290,
+            "MainBundleSize": 113277,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/Effect/SkillUpgrade/UpgradeEffect.controller",
@@ -1185,7 +1184,7 @@
             "AssetGUID": "da54bf41a4177f74f8f565f869e95402",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 113290,
+            "MainBundleSize": 113277,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/Sprites/Album/EquipAlbum/TypeIcon/ArmorIcon.png",
@@ -2053,10 +2052,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "FileName": "02ab4fd8f5c225a78fe28075f72eb1ba.bundle",
-            "FileHash": "02ab4fd8f5c225a78fe28075f72eb1ba",
-            "FileCRC": "cd6db5c1",
-            "FileSize": 113290,
+            "FileName": "1c5eb04ad15c42a1a6a29d111326d54b.bundle",
+            "FileHash": "1c5eb04ad15c42a1a6a29d111326d54b",
+            "FileCRC": "19953564",
+            "FileSize": 113277,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
