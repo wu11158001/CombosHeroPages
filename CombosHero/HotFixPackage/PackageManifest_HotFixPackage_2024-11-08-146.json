@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "RawFileBuildPipeline",
     "PackageName": "HotFixPackage",
-    "PackageVersion": "2024-11-07-224",
+    "PackageVersion": "2024-11-08-146",
     "AssetList": [
         {
             "Address": "Assembly-CSharp.dll",
@@ -76,8 +76,8 @@
         {
             "BundleName": "hotfixpackage_assets_hotfixassets_dll_assembly-csharp_dll_bytes.rawfile",
             "UnityCRC": 0,
-            "FileHash": "f48680440ed07f3e9247665cc0eb38ea",
-            "FileCRC": "a9b10aa1",
+            "FileHash": "ff1c94f9575a2450896364a6b5658fb0",
+            "FileCRC": "f3375bcf",
             "FileSize": 102400,
             "Encrypted": false,
             "Tags": [],
@@ -86,9 +86,9 @@
         {
             "BundleName": "hotfixpackage_assets_hotfixassets_dll_hotfix_dll_bytes.rawfile",
             "UnityCRC": 0,
-            "FileHash": "25bd748dd97b9057f35b129fd714d776",
-            "FileCRC": "c2bf242c",
-            "FileSize": 238080,
+            "FileHash": "da110056f0b8da3abfb1df3728f0bdca",
+            "FileCRC": "778b9e2a",
+            "FileSize": 240640,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -116,8 +116,8 @@
         {
             "BundleName": "hotfixpackage_assets_hotfixassets_aot_newtonsoft_json_dll_bytes.rawfile",
             "UnityCRC": 0,
-            "FileHash": "bfeebc9de279c015c9ad2cf299f6604a",
-            "FileCRC": "1f27e7bd",
+            "FileHash": "9a11b9c22a3444b9062a9102d6c3046a",
+            "FileCRC": "60051c4d",
             "FileSize": 688128,
             "Encrypted": false,
             "Tags": [],
@@ -136,9 +136,9 @@
         {
             "BundleName": "hotfixpackage_assets_hotfixassets_aot_unityengine_coremodule_dll_bytes.rawfile",
             "UnityCRC": 0,
-            "FileHash": "383c1464dd897218256f2fa27b98f703",
-            "FileCRC": "db10d767",
-            "FileSize": 491008,
+            "FileHash": "b3bf43dd912d546997f0f2c01eb0f0a1",
+            "FileCRC": "a29d37ea",
+            "FileSize": 493568,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []

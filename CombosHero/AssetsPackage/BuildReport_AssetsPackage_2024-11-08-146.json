@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.1.1",
         "UnityVersion": "2021.3.43f1",
-        "BuildDate": "2024/11/7 上午 03:53:56",
-        "BuildSeconds": 22,
+        "BuildDate": "2024/11/8 上午 02:27:22",
+        "BuildSeconds": 29,
         "BuildTarget": 13,
         "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildPackageName": "AssetsPackage",
-        "BuildPackageVersion": "2024-11-07-233",
+        "BuildPackageVersion": "2024-11-08-146",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -24,7 +24,7 @@
         "AssetFileTotalCount": 642,
         "MainAssetTotalCount": 69,
         "AllBundleTotalCount": 87,
-        "AllBundleTotalSize": 83844791,
+        "AllBundleTotalSize": 83844800,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -519,7 +519,7 @@
             "AssetGUID": "b89830c35087fa34ca1270af9cad9e96",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38006,
+            "MainBundleSize": 38014,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/思源宋體-Medium.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -548,7 +548,7 @@
             "AssetGUID": "625539056456a184a8ca731627b94b12",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38006,
+            "MainBundleSize": 38014,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/FrameSquareOrange.png",
                 "Assets/UsingAssets/Sprites/Album/SkillIconAlbum/BouncyBall.png",
@@ -570,7 +570,7 @@
             "AssetGUID": "3daf3180bfd826a47be2fc935e7b4c30",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38006,
+            "MainBundleSize": 38014,
             "DependAssets": [
                 "Assets/UsingAssets/TMPFonts/Material/思源宋體-Medium.asset",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
@@ -595,7 +595,7 @@
             "AssetGUID": "db53943d7a1ec6c438815f5dcf9f2c17",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38006,
+            "MainBundleSize": 38014,
             "DependAssets": [
                 "Assets/UsingAssets/Effect/VictoryEffect/halo_image.png",
                 "Assets/UsingAssets/Sprites/Community/Other/Stat.png",
@@ -621,7 +621,7 @@
             "AssetGUID": "b5cedf22c6ef9da4e93dac5f1c71b92a",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38006,
+            "MainBundleSize": 38014,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/Sprites/Community/Other/Cloud.png",
@@ -653,7 +653,7 @@
             "AssetGUID": "2e2d033464cb02f468bb001996541f91",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38006,
+            "MainBundleSize": 38014,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Line1.png",
                 "Assets/UsingAssets/Sprites/Community/UI/FrameSquareOrange.png",
@@ -670,7 +670,7 @@
             "AssetGUID": "4c062a28050eb624396b96cbce1603e8",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38006,
+            "MainBundleSize": 38014,
             "DependAssets": [
                 "Assets/UsingAssets/Effect/ShineEffect/RefreshSkill.png",
                 "Assets/UsingAssets/Effect/ShineEffect/RefreshSkill.anim",
@@ -690,7 +690,7 @@
             "AssetGUID": "3e2e94209ec7d9348aecb5316734b8b2",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "MainBundleSize": 38006,
+            "MainBundleSize": 38014,
             "DependAssets": [
                 "Assets/UsingAssets/Monster/M_Ice1/Move/08.png",
                 "Assets/UsingAssets/Monster/M_Ice1/Move/10.png",
@@ -1271,7 +1271,7 @@
             "AssetGUID": "066656f125ee46046a7d63b8c9a85521",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 8319,
+            "MainBundleSize": 8320,
             "DependAssets": []
         },
         {
@@ -1280,7 +1280,7 @@
             "AssetGUID": "0b6ed7435081e314e9d3e335bfb4dc82",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 8319,
+            "MainBundleSize": 8320,
             "DependAssets": []
         },
         {
@@ -1289,7 +1289,7 @@
             "AssetGUID": "ba68b66492ea6c0408cedf13f33be5c2",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 8319,
+            "MainBundleSize": 8320,
             "DependAssets": []
         },
         {
@@ -1298,7 +1298,7 @@
             "AssetGUID": "6270f34999fb8684eb3220b5f51a48c8",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "MainBundleSize": 8319,
+            "MainBundleSize": 8320,
             "DependAssets": []
         },
         {
@@ -2009,10 +2009,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_game.bundle",
-            "FileName": "79cd246cfdefecda8894c99f678e45bf.bundle",
-            "FileHash": "79cd246cfdefecda8894c99f678e45bf",
-            "FileCRC": "6871a28a",
-            "FileSize": 38006,
+            "FileName": "ea830b29bb0d72f0b9e5f4a300c03e24.bundle",
+            "FileHash": "ea830b29bb0d72f0b9e5f4a300c03e24",
+            "FileCRC": "25904f5b",
+            "FileSize": 38014,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -2151,10 +2151,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "FileName": "dc78bc9456c6704d76aa6c5ab71810b5.bundle",
-            "FileHash": "dc78bc9456c6704d76aa6c5ab71810b5",
-            "FileCRC": "fc9e4692",
-            "FileSize": 8319,
+            "FileName": "3cfac5f4bb51b013fb083984f41e49e9.bundle",
+            "FileHash": "3cfac5f4bb51b013fb083984f41e49e9",
+            "FileCRC": "28ea5ab4",
+            "FileSize": 8320,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
