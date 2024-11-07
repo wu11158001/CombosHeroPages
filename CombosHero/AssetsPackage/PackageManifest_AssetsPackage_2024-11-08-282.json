@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "AssetsPackage",
-    "PackageVersion": "2024-11-08-194",
+    "PackageVersion": "2024-11-08-282",
     "AssetList": [
         {
             "Address": "Damage_MeshText",
