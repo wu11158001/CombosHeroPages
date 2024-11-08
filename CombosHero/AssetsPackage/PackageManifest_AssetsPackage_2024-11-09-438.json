@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "AssetsPackage",
-    "PackageVersion": "2024-11-08-688",
+    "PackageVersion": "2024-11-09-438",
     "AssetList": [
         {
             "Address": "Damage_MeshText",
@@ -324,6 +324,13 @@
             "BundleID": 5
         },
         {
+            "Address": "SevenDayView",
+            "AssetPath": "Assets/HotFixAssets/Prefab/View/Lobby/SevenDayView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
             "Address": "SkillUpgradeView",
             "AssetPath": "Assets/HotFixAssets/Prefab/View/Lobby/SkillUpgradeView.prefab",
             "AssetGUID": "",
@@ -554,16 +561,16 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "UnityCRC": 2234552128,
-            "FileHash": "971a65218c7bccac8342264a7dc36516",
-            "FileCRC": "c3b7f8f1",
-            "FileSize": 29989,
+            "UnityCRC": 1304207805,
+            "FileHash": "ca745bb4c7403f56d86db904345142df",
+            "FileCRC": "49dbc3af",
+            "FileSize": 29979,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
                 42,
                 40,
-                72,
+                73,
                 55,
                 23,
                 24,
@@ -596,7 +603,7 @@
                 54,
                 53,
                 51,
-                72,
+                73,
                 55,
                 23,
                 24,
@@ -616,10 +623,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "UnityCRC": 2265775659,
-            "FileHash": "003ce8fac6a3e27f1ec48ac6fb4e29c5",
-            "FileCRC": "4e5130b6",
-            "FileSize": 113306,
+            "UnityCRC": 503614568,
+            "FileHash": "14fc3a0feaed8bebc2caf8a299b7b6f7",
+            "FileCRC": "98687bf4",
+            "FileSize": 118028,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
@@ -632,7 +639,7 @@
                 50,
                 54,
                 66,
-                72,
+                73,
                 55,
                 23,
                 24,
@@ -647,13 +654,14 @@
                 45,
                 65,
                 44,
+                68,
                 67,
                 62,
                 47,
                 43,
                 39,
                 57,
-                68,
+                69,
                 16,
                 17,
                 13
@@ -693,10 +701,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_exceldate.bundle",
-            "UnityCRC": 579652876,
-            "FileHash": "3cfac5f4bb51b013fb083984f41e49e9",
-            "FileCRC": "28ea5ab4",
-            "FileSize": 8320,
+            "UnityCRC": 2614542794,
+            "FileHash": "722519587c6ef4093d76927c11d25100",
+            "FileCRC": "6c63c299",
+            "FileSize": 8425,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -711,24 +719,24 @@
             "Tags": [],
             "DependIDs": [
                 18,
-                69,
                 70,
                 71,
-                80,
-                76,
-                78,
                 72,
+                81,
                 77,
                 79,
                 73,
+                78,
+                80,
+                74,
                 55,
                 21,
                 22,
                 23,
                 24,
-                81,
+                82,
+                76,
                 75,
-                74,
                 48,
                 49
             ]
@@ -742,10 +750,10 @@
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
-                82,
-                59,
                 83,
+                59,
                 84,
+                85,
                 36
             ]
         },
@@ -781,7 +789,7 @@
                 45,
                 65,
                 44,
-                85,
+                68,
                 67,
                 62,
                 47,
@@ -1170,7 +1178,7 @@
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
-                72,
+                73,
                 55,
                 24,
                 48
@@ -1361,6 +1369,16 @@
             "DependIDs": []
         },
         {
+            "BundleName": "assetspackage_share_assets_usingassets_sprites_album_equipalbum_weapons.bundle",
+            "UnityCRC": 833936569,
+            "FileHash": "30e76970a7ae5d9a80457ac806def256",
+            "FileCRC": "d6e91004",
+            "FileSize": 163643,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
             "BundleName": "assetspackage_share_assets_usingassets_sprites_lobby_userinfo.bundle",
             "UnityCRC": 4109057076,
             "FileHash": "ffab1f3e3f03047beb4318ba1499c14a",
@@ -1459,8 +1477,8 @@
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
-                79,
-                73,
+                80,
+                74,
                 55
             ]
         },
@@ -1493,9 +1511,9 @@
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
-                76,
-                78,
-                72
+                77,
+                79,
+                73
             ]
         },
         {
@@ -1507,8 +1525,8 @@
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
+                76,
                 75,
-                74,
                 48
             ]
         },
@@ -1538,16 +1556,6 @@
             "FileHash": "a50fba32d5ef059f0327af2951cdff57",
             "FileCRC": "0380e069",
             "FileSize": 106245,
-            "Encrypted": false,
-            "Tags": [],
-            "DependIDs": []
-        },
-        {
-            "BundleName": "assetspackage_share_assets_usingassets_sprites_album_equipalbum_weapons.bundle",
-            "UnityCRC": 833936569,
-            "FileHash": "30e76970a7ae5d9a80457ac806def256",
-            "FileCRC": "d6e91004",
-            "FileSize": 163643,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []

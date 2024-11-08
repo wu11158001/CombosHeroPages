@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2605767378
+CRC: 1184069538
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -95,7 +95,8 @@ AssetBundleManifest:
         Dependency_23: assetspackage_share_assets_usingassets_sprites_album_equipalbum_helmet.bundle
         Dependency_24: assetspackage_share_assets_usingassets_effect_skillupgrade.bundle
         Dependency_25: assetspackage_share_assets_usingassets_sprites_album_lobbyitemalbum.bundle
-        Dependency_26: assetspackage_share_assets_usingassets_sprites_lobby_userinfo.bundle
+        Dependency_26: assetspackage_share_assets_usingassets_sprites_album_equipalbum_weapons.bundle
+        Dependency_27: assetspackage_share_assets_usingassets_sprites_lobby_userinfo.bundle
     Info_6:
       Name: assetspackage_assets_hotfixassets_prefab_view_sample.bundle
       Dependencies:
@@ -335,67 +336,67 @@ AssetBundleManifest:
       Name: assetspackage_share_assets_usingassets_sprites_album_lobbyitemalbum.bundle
       Dependencies: {}
     Info_68:
-      Name: assetspackage_share_assets_usingassets_sprites_lobby_userinfo.bundle
+      Name: assetspackage_share_assets_usingassets_sprites_album_equipalbum_weapons.bundle
       Dependencies: {}
     Info_69:
-      Name: assetspackage_share_assets_usingassets_hero_hero1.bundle
+      Name: assetspackage_share_assets_usingassets_sprites_lobby_userinfo.bundle
       Dependencies: {}
     Info_70:
-      Name: assetspackage_share_assets_usingassets_hero_hero2.bundle
+      Name: assetspackage_share_assets_usingassets_hero_hero1.bundle
       Dependencies: {}
     Info_71:
-      Name: assetspackage_share_assets_usingassets_hero_hero3.bundle
+      Name: assetspackage_share_assets_usingassets_hero_hero2.bundle
       Dependencies: {}
     Info_72:
-      Name: assetspackage_share_assets_usingassets_monster_m_flame1_move.bundle
+      Name: assetspackage_share_assets_usingassets_hero_hero3.bundle
       Dependencies: {}
     Info_73:
-      Name: assetspackage_share_assets_usingassets_monster_m_ice1_idle.bundle
+      Name: assetspackage_share_assets_usingassets_monster_m_flame1_move.bundle
       Dependencies: {}
     Info_74:
-      Name: assetspackage_share_assets_usingassets_monster_m_thunder1_idle.bundle
+      Name: assetspackage_share_assets_usingassets_monster_m_ice1_idle.bundle
       Dependencies: {}
     Info_75:
-      Name: assetspackage_share_assets_usingassets_monster_m_thunder1_attack.bundle
+      Name: assetspackage_share_assets_usingassets_monster_m_thunder1_idle.bundle
       Dependencies: {}
     Info_76:
-      Name: assetspackage_share_assets_usingassets_monster_m_flame1_attack.bundle
+      Name: assetspackage_share_assets_usingassets_monster_m_thunder1_attack.bundle
       Dependencies: {}
     Info_77:
+      Name: assetspackage_share_assets_usingassets_monster_m_flame1_attack.bundle
+      Dependencies: {}
+    Info_78:
       Name: assetspackage_share_assets_usingassets_monster_m_ice1.bundle
       Dependencies:
         Dependency_0: assetspackage_share_assets_usingassets_monster_m_ice1_move.bundle
         Dependency_1: assetspackage_share_assets_usingassets_monster_m_ice1_idle.bundle
         Dependency_2: assetspackage_share_assets_usingassets_monster_m_ice1_attack.bundle
-    Info_78:
+    Info_79:
       Name: assetspackage_share_assets_usingassets_monster_m_flame1_idle.bundle
       Dependencies: {}
-    Info_79:
+    Info_80:
       Name: assetspackage_share_assets_usingassets_monster_m_ice1_attack.bundle
       Dependencies: {}
-    Info_80:
+    Info_81:
       Name: assetspackage_share_assets_usingassets_monster_m_flame1.bundle
       Dependencies:
         Dependency_0: assetspackage_share_assets_usingassets_monster_m_flame1_move.bundle
         Dependency_1: assetspackage_share_assets_usingassets_monster_m_flame1_attack.bundle
         Dependency_2: assetspackage_share_assets_usingassets_monster_m_flame1_idle.bundle
-    Info_81:
+    Info_82:
       Name: assetspackage_share_assets_usingassets_monster_m_thunder1.bundle
       Dependencies:
         Dependency_0: assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle
         Dependency_1: assetspackage_share_assets_usingassets_monster_m_thunder1_idle.bundle
         Dependency_2: assetspackage_share_assets_usingassets_monster_m_thunder1_attack.bundle
-    Info_82:
+    Info_83:
       Name: assetspackage_share_assets_usingassets_audioclip_bgm.bundle
       Dependencies: {}
-    Info_83:
+    Info_84:
       Name: assetspackage_share_assets_usingassets_audioclip_sound_game.bundle
       Dependencies: {}
-    Info_84:
-      Name: assetspackage_share_assets_usingassets_audioclip_sound_lobby.bundle
-      Dependencies: {}
     Info_85:
-      Name: assetspackage_share_assets_usingassets_sprites_album_equipalbum_weapons.bundle
+      Name: assetspackage_share_assets_usingassets_audioclip_sound_lobby.bundle
       Dependencies: {}
     Info_86:
       Name: assetspackage_share_assets_usingassets_sprites_album_equipalbum_armor.bundle
