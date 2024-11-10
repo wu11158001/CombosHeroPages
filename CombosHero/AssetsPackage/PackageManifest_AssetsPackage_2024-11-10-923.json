@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "AssetsPackage",
-    "PackageVersion": "2024-11-10-860",
+    "PackageVersion": "2024-11-10-923",
     "AssetList": [
         {
             "Address": "Damage_MeshText",
@@ -628,10 +628,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "UnityCRC": 1426683372,
-            "FileHash": "e481d46a14443f78ee3da0a0f3082850",
-            "FileCRC": "1c9ca654",
-            "FileSize": 114134,
+            "UnityCRC": 2074631771,
+            "FileHash": "97367be2449dbd775fe87428f975df11",
+            "FileCRC": "69d4c693",
+            "FileSize": 114138,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
@@ -1262,10 +1262,10 @@
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_effect_btns.bundle",
-            "UnityCRC": 1043307812,
-            "FileHash": "4ea2e6525341de56ec3e02e5c6e1d50e",
-            "FileCRC": "7a5f6a67",
-            "FileSize": 9696,
+            "UnityCRC": 3710900633,
+            "FileHash": "abccaa06379e9d489ee206e8646763f0",
+            "FileCRC": "3baeddc8",
+            "FileSize": 9698,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
