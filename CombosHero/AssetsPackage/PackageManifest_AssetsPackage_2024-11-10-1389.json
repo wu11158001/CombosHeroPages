@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "AssetsPackage",
-    "PackageVersion": "2024-11-10-994",
+    "PackageVersion": "2024-11-10-1389",
     "AssetList": [
         {
             "Address": "Damage_MeshText",
@@ -628,9 +628,9 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "UnityCRC": 3326716665,
-            "FileHash": "cf1d91d21db2be9486831ab5229f7d1b",
-            "FileCRC": "2e34e2c4",
+            "UnityCRC": 1830874432,
+            "FileHash": "26ffa0543d83ca539e3555c5e026a9ed",
+            "FileCRC": "62bf32a6",
             "FileSize": 114138,
             "Encrypted": false,
             "Tags": [],
