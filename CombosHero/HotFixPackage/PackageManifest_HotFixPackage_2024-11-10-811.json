@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "RawFileBuildPipeline",
     "PackageName": "HotFixPackage",
-    "PackageVersion": "2024-11-10-786",
+    "PackageVersion": "2024-11-10-811",
     "AssetList": [
         {
             "Address": "Assembly-CSharp.dll",
