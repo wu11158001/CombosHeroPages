@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.1.1",
         "UnityVersion": "2021.3.43f1",
-        "BuildDate": "2024/11/10 下午 11:09:56",
-        "BuildSeconds": 25,
+        "BuildDate": "2024/11/10 下午 11:47:51",
+        "BuildSeconds": 24,
         "BuildTarget": 13,
         "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildPackageName": "AssetsPackage",
-        "BuildPackageVersion": "2024-11-10-1389",
+        "BuildPackageVersion": "2024-11-10-1427",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -24,7 +24,7 @@
         "AssetFileTotalCount": 652,
         "MainAssetTotalCount": 71,
         "AllBundleTotalCount": 88,
-        "AllBundleTotalSize": 84022671,
+        "AllBundleTotalSize": 84022672,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -722,7 +722,7 @@
             "AssetGUID": "22380cabe2d9872408bef18cfc7007bc",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Lobby/Quests.png",
                 "Assets/UsingAssets/Effect/Btns/SevenDayBtn.anim",
@@ -757,7 +757,7 @@
             "AssetGUID": "d570db5fb2c4ffb47a5479680f651b0d",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Crystal.png",
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Stamina.png",
@@ -780,7 +780,7 @@
             "AssetGUID": "5e3dde1350d6ed94db86ed5a62146b19",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/UsingAssets/Monster/M_Ice1/Move/08.png",
                 "Assets/UsingAssets/Monster/M_Ice1/Move/10.png",
@@ -814,7 +814,7 @@
             "AssetGUID": "68518b9e4c4896147a02807b787ea26f",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/UsingAssets/Effect/ChestOpenEffect/EquipChest/EquipChestEffect.anim",
                 "Assets/UsingAssets/AudioClip/Sound/Common/Shake.mp3",
@@ -892,7 +892,7 @@
             "AssetGUID": "c788101edcb7e12468c447e2d7f71881",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown Icon.psd",
                 "Assets/UsingAssets/Sprites/Album/EquipAlbum/TypeIcon/ArmorIcon.png",
@@ -948,7 +948,7 @@
             "AssetGUID": "0240164a85c70114bb21992ac06a8a7b",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/Sprites/Album/EquipAlbum/TypeIcon/ArmorIcon.png",
@@ -982,7 +982,7 @@
             "AssetGUID": "d86e40ea5c4082947bb9f411ded8b13e",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/UsingAssets/Effect/Light/burst0047.png",
                 "Assets/UsingAssets/Effect/Light/burst0025.png",
@@ -1064,7 +1064,7 @@
             "AssetGUID": "7009b447820dffb4ca8bb23f88a8f216",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Crystal.png",
@@ -1093,7 +1093,7 @@
             "AssetGUID": "4c81100a143b1224eb8a838ec2cd0e3e",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/Crystal.png",
                 "Assets/UsingAssets/Sprites/Album/CurrencyAlbum/RandomSkillBook.png",
@@ -1125,7 +1125,7 @@
             "AssetGUID": "b2001a3a4eac5b046aa5578ec4f93c1e",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/UsingAssets/Effect/Light/burst0047.png",
                 "Assets/UsingAssets/Effect/Light/burst0025.png",
@@ -1207,7 +1207,7 @@
             "AssetGUID": "b301ee64b644f20459b293ba6d074d95",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Line1.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -1228,7 +1228,7 @@
             "AssetGUID": "8d8f7f13e8900954b819cd484c582d36",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd",
@@ -1248,7 +1248,7 @@
             "AssetGUID": "0e3d0fd0a4eeeb94eb14707231b021b6",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
                 "Assets/UsingAssets/Sprites/Community/UI/FrameSquareOrange.png",
@@ -1281,7 +1281,7 @@
             "AssetGUID": "5861bee8692c1bf4f85b6804518aa590",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/Effect/SkillUpgrade/UpgradeEffect.controller",
@@ -1310,7 +1310,7 @@
             "AssetGUID": "da54bf41a4177f74f8f565f869e95402",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "MainBundleSize": 114138,
+            "MainBundleSize": 114139,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/Sprites/Album/EquipAlbum/TypeIcon/ArmorIcon.png",
@@ -2170,10 +2170,10 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_lobby.bundle",
-            "FileName": "26ffa0543d83ca539e3555c5e026a9ed.bundle",
-            "FileHash": "26ffa0543d83ca539e3555c5e026a9ed",
-            "FileCRC": "62bf32a6",
-            "FileSize": 114138,
+            "FileName": "40a6cc6ae7f28c064dc1b90986072be1.bundle",
+            "FileHash": "40a6cc6ae7f28c064dc1b90986072be1",
+            "FileCRC": "988e4ffc",
+            "FileSize": 114139,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
