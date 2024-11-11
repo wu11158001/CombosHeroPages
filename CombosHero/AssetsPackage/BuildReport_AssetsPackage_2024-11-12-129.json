@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.1.1",
         "UnityVersion": "2021.3.43f1",
-        "BuildDate": "2024/11/10 下午 11:47:51",
-        "BuildSeconds": 24,
+        "BuildDate": "2024/11/12 上午 02:10:04",
+        "BuildSeconds": 29,
         "BuildTarget": 13,
         "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildPackageName": "AssetsPackage",
-        "BuildPackageVersion": "2024-11-10-1427",
+        "BuildPackageVersion": "2024-11-12-129",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -24,7 +24,7 @@
         "AssetFileTotalCount": 652,
         "MainAssetTotalCount": 71,
         "AllBundleTotalCount": 88,
-        "AllBundleTotalSize": 84022672,
+        "AllBundleTotalSize": 84022813,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -1828,14 +1828,16 @@
             "AssetGUID": "dbc8d85a615646d4f9615435898d2838",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_album_fontalbum.bundle",
-            "MainBundleSize": 2046,
+            "MainBundleSize": 2128,
             "DependAssets": [
                 "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
                 "Assets/UsingAssets/TMPFonts/Fonts/msjhn.ttf",
                 "Assets/UsingAssets/TMPFonts/Material/微軟正黑體.asset",
-                "Assets/UsingAssets/TMPFonts/Fonts/NotoSansTC-Medium.otf",
-                "Assets/UsingAssets/TMPFonts/Material/Noto Sans-500.asset"
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
             ]
         },
         {
@@ -2344,13 +2346,15 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_album_fontalbum.bundle",
-            "FileName": "0ceb5f501e0547f444cfb3a3301877f5.bundle",
-            "FileHash": "0ceb5f501e0547f444cfb3a3301877f5",
-            "FileCRC": "16b51b16",
-            "FileSize": 2046,
+            "FileName": "e40380749fadd19227d648ab5ba840be.bundle",
+            "FileHash": "e40380749fadd19227d648ab5ba840be",
+            "FileCRC": "a4d925fe",
+            "FileSize": 2128,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
+                "assetspackage_share_assets_textmesh pro_fonts.bundle",
+                "assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle",
                 "assetspackage_share_assets_usingassets_tmpfonts_fonts.bundle",
                 "assetspackage_share_assets_usingassets_tmpfonts_material.bundle",
                 "assetspackage_unityshaders.bundle"
@@ -2479,10 +2483,10 @@
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_hero_hero0.bundle",
-            "FileName": "98ff392c5051cdcdd361848d1950200f.bundle",
-            "FileHash": "98ff392c5051cdcdd361848d1950200f",
-            "FileCRC": "718fea2c",
-            "FileSize": 105834,
+            "FileName": "89dad8ceb6e0dc6fed9a4d120b0824ab.bundle",
+            "FileHash": "89dad8ceb6e0dc6fed9a4d120b0824ab",
+            "FileCRC": "7ac26293",
+            "FileSize": 105893,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],

@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "RawFileBuildPipeline",
     "PackageName": "HotFixPackage",
-    "PackageVersion": "2024-11-10-1427",
+    "PackageVersion": "2024-11-12-129",
     "AssetList": [
         {
             "Address": "Assembly-CSharp.dll",
@@ -86,9 +86,9 @@
         {
             "BundleName": "hotfixpackage_assets_hotfixassets_dll_hotfix_dll_bytes.rawfile",
             "UnityCRC": 0,
-            "FileHash": "d344706b6e688b5e4610fb2ad7eb6344",
-            "FileCRC": "de2d64a1",
-            "FileSize": 249344,
+            "FileHash": "c44e6e44b4d4ca153ea265d0b2ced526",
+            "FileCRC": "60a508ac",
+            "FileSize": 249856,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
@@ -116,8 +116,8 @@
         {
             "BundleName": "hotfixpackage_assets_hotfixassets_aot_newtonsoft_json_dll_bytes.rawfile",
             "UnityCRC": 0,
-            "FileHash": "ed694aed8253606d97d8c89bdfc44d8b",
-            "FileCRC": "dbd541a6",
+            "FileHash": "4ada7b5508411d8cb8b3bd8161a8e880",
+            "FileCRC": "a8faf2fc",
             "FileSize": 688128,
             "Encrypted": false,
             "Tags": [],

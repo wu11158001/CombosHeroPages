@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 102954503
+CRC: 1436388850
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -137,6 +137,7 @@ AssetBundleManifest:
       Name: assetspackage_assets_hotfixassets_album_fontalbum.bundle
       Dependencies:
         Dependency_0: assetspackage_share_assets_usingassets_tmpfonts_material.bundle
+        Dependency_1: assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle
     Info_12:
       Name: assetspackage_assets_hotfixassets_album_spritealbum.bundle
       Dependencies:

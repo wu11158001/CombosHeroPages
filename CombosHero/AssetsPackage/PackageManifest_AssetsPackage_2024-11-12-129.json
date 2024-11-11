@@ -6,7 +6,7 @@
     "OutputNameStyle": 0,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "AssetsPackage",
-    "PackageVersion": "2024-11-10-1427",
+    "PackageVersion": "2024-11-12-129",
     "AssetList": [
         {
             "Address": "Damage_MeshText",
@@ -763,13 +763,15 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_album_fontalbum.bundle",
-            "UnityCRC": 3121841957,
-            "FileHash": "0ceb5f501e0547f444cfb3a3301877f5",
-            "FileCRC": "16b51b16",
-            "FileSize": 2046,
+            "UnityCRC": 2445323039,
+            "FileHash": "e40380749fadd19227d648ab5ba840be",
+            "FileCRC": "a4d925fe",
+            "FileSize": 2128,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": [
+                42,
+                40,
                 16,
                 17,
                 13
@@ -856,10 +858,10 @@
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_hero_hero0.bundle",
-            "UnityCRC": 1228712808,
-            "FileHash": "98ff392c5051cdcdd361848d1950200f",
-            "FileCRC": "718fea2c",
-            "FileSize": 105834,
+            "UnityCRC": 3465637588,
+            "FileHash": "89dad8ceb6e0dc6fed9a4d120b0824ab",
+            "FileCRC": "7ac26293",
+            "FileSize": 105893,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
