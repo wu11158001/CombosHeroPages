@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3454572072
+CRC: 416058576
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -45,11 +45,12 @@ AssetBundleManifest:
         Dependency_6: assetspackage_share_assets_usingassets_sprites_album_equipalbum_typeicon.bundle
         Dependency_7: assetspackage_share_assets_usingassets_sprites_album_equipalbum_boots.bundle
         Dependency_8: assetspackage_share_assets_usingassets_sprites_album_commonalbum.bundle
-        Dependency_9: assetspackage_share_assets_usingassets_sprites_lobby.bundle
-        Dependency_10: assetspackage_share_assets_usingassets_sprites_lobby_noviceteaching.bundle
-        Dependency_11: assetspackage_share_assets_usingassets_sprites_album_skilliconalbum.bundle
-        Dependency_12: assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle
-        Dependency_13: assetspackage_share_assets_usingassets_monster_monsterinfo.bundle
+        Dependency_9: assetspackage_share_assets_usingassets_effect_sizeeffect.bundle
+        Dependency_10: assetspackage_share_assets_usingassets_sprites_lobby.bundle
+        Dependency_11: assetspackage_share_assets_usingassets_sprites_lobby_noviceteaching.bundle
+        Dependency_12: assetspackage_share_assets_usingassets_sprites_album_skilliconalbum.bundle
+        Dependency_13: assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle
+        Dependency_14: assetspackage_share_assets_usingassets_monster_monsterinfo.bundle
     Info_4:
       Name: assetspackage_assets_hotfixassets_prefab_view_game.bundle
       Dependencies:
@@ -81,25 +82,25 @@ AssetBundleManifest:
         Dependency_7: assetspackage_share_assets_usingassets_sprites_album_equipalbum_typeicon.bundle
         Dependency_8: assetspackage_share_assets_usingassets_sprites_album_equipalbum_boots.bundle
         Dependency_9: assetspackage_share_assets_usingassets_sprites_album_commonalbum.bundle
-        Dependency_10: assetspackage_share_assets_usingassets_sprites_lobby.bundle
-        Dependency_11: assetspackage_share_assets_usingassets_sprites_album_skilliconalbum.bundle
-        Dependency_12: assetspackage_share_assets_usingassets_monster_monsterinfo.bundle
-        Dependency_13: assetspackage_share_assets_usingassets_effect_outerframeeffect.bundle
-        Dependency_14: assetspackage_share_assets_usingassets_effect_shineeffect.bundle
-        Dependency_15: assetspackage_share_assets_usingassets_effect_btns.bundle
-        Dependency_16: assetspackage_share_assets_usingassets_sprites_album_chapteralbum.bundle
-        Dependency_17: assetspackage_share_assets_usingassets_effect_cursoreffect.bundle
-        Dependency_18: assetspackage_share_assets_usingassets_effect_chestopeneffect_equipchest.bundle
-        Dependency_19: assetspackage_share_assets_usingassets_audioclip_sound_common.bundle
-        Dependency_20: assetspackage_share_assets_usingassets_effect_light.bundle
-        Dependency_21: assetspackage_share_assets_usingassets_sprites_album_chestalbum.bundle
-        Dependency_22: assetspackage_share_assets_usingassets_sprites_album_maskbgalbum.bundle
-        Dependency_23: assetspackage_share_assets_usingassets_effect_equiplevelup.bundle
-        Dependency_24: assetspackage_share_assets_usingassets_sprites_album_avataralbum.bundle
-        Dependency_25: assetspackage_share_assets_usingassets_sprites_album_equipalbum_helmet.bundle
-        Dependency_26: assetspackage_share_assets_usingassets_effect_skillupgrade.bundle
-        Dependency_27: assetspackage_share_assets_usingassets_sprites_album_lobbyitemalbum.bundle
-        Dependency_28: assetspackage_share_assets_usingassets_effect_sizeeffect.bundle
+        Dependency_10: assetspackage_share_assets_usingassets_effect_sizeeffect.bundle
+        Dependency_11: assetspackage_share_assets_usingassets_sprites_lobby.bundle
+        Dependency_12: assetspackage_share_assets_usingassets_sprites_album_skilliconalbum.bundle
+        Dependency_13: assetspackage_share_assets_usingassets_monster_monsterinfo.bundle
+        Dependency_14: assetspackage_share_assets_usingassets_effect_outerframeeffect.bundle
+        Dependency_15: assetspackage_share_assets_usingassets_effect_shineeffect.bundle
+        Dependency_16: assetspackage_share_assets_usingassets_effect_btns.bundle
+        Dependency_17: assetspackage_share_assets_usingassets_sprites_album_chapteralbum.bundle
+        Dependency_18: assetspackage_share_assets_usingassets_effect_cursoreffect.bundle
+        Dependency_19: assetspackage_share_assets_usingassets_effect_chestopeneffect_equipchest.bundle
+        Dependency_20: assetspackage_share_assets_usingassets_audioclip_sound_common.bundle
+        Dependency_21: assetspackage_share_assets_usingassets_effect_light.bundle
+        Dependency_22: assetspackage_share_assets_usingassets_sprites_album_chestalbum.bundle
+        Dependency_23: assetspackage_share_assets_usingassets_sprites_album_maskbgalbum.bundle
+        Dependency_24: assetspackage_share_assets_usingassets_effect_equiplevelup.bundle
+        Dependency_25: assetspackage_share_assets_usingassets_sprites_album_avataralbum.bundle
+        Dependency_26: assetspackage_share_assets_usingassets_sprites_album_equipalbum_helmet.bundle
+        Dependency_27: assetspackage_share_assets_usingassets_effect_skillupgrade.bundle
+        Dependency_28: assetspackage_share_assets_usingassets_sprites_album_lobbyitemalbum.bundle
         Dependency_29: assetspackage_share_assets_usingassets_sprites_album_equipalbum_weapons.bundle
         Dependency_30: assetspackage_share_assets_usingassets_sprites_lobby_userinfo.bundle
     Info_6:
@@ -272,85 +273,85 @@ AssetBundleManifest:
       Name: assetspackage_share_assets_usingassets_sprites_album_commonalbum.bundle
       Dependencies: {}
     Info_47:
-      Name: assetspackage_share_assets_usingassets_sprites_lobby.bundle
+      Name: assetspackage_share_assets_usingassets_effect_sizeeffect.bundle
       Dependencies: {}
     Info_48:
-      Name: assetspackage_share_assets_usingassets_sprites_lobby_noviceteaching.bundle
+      Name: assetspackage_share_assets_usingassets_sprites_lobby.bundle
       Dependencies: {}
     Info_49:
-      Name: assetspackage_share_assets_usingassets_sprites_album_skilliconalbum.bundle
+      Name: assetspackage_share_assets_usingassets_sprites_lobby_noviceteaching.bundle
       Dependencies: {}
     Info_50:
-      Name: assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle
+      Name: assetspackage_share_assets_usingassets_sprites_album_skilliconalbum.bundle
       Dependencies: {}
     Info_51:
+      Name: assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle
+      Dependencies: {}
+    Info_52:
       Name: assetspackage_share_assets_usingassets_monster_monsterinfo.bundle
       Dependencies:
         Dependency_0: assetspackage_share_assets_usingassets_monster_m_physics1_move.bundle
         Dependency_1: assetspackage_share_assets_usingassets_monster_m_thunder1_move.bundle
         Dependency_2: assetspackage_share_assets_usingassets_monster_m_ice1_move.bundle
         Dependency_3: assetspackage_share_assets_usingassets_monster_m_flame1_move.bundle
-    Info_52:
+    Info_53:
       Name: assetspackage_share_assets_usingassets_effect_outerframeeffect.bundle
       Dependencies: {}
-    Info_53:
+    Info_54:
       Name: assetspackage_share_assets_usingassets_effect_victoryeffect.bundle
       Dependencies: {}
-    Info_54:
+    Info_55:
       Name: assetspackage_share_assets_usingassets_sprites_community_progressbars.bundle
       Dependencies: {}
-    Info_55:
+    Info_56:
       Name: assetspackage_share_assets_usingassets_effect_sloteffect.bundle
       Dependencies:
         Dependency_0: assetspackage_share_assets_usingassets_effect_outerframeeffect.bundle
-    Info_56:
+    Info_57:
       Name: assetspackage_share_assets_usingassets_effect_shineeffect.bundle
       Dependencies: {}
-    Info_57:
+    Info_58:
       Name: assetspackage_share_assets_usingassets_monster_m_ice1_move.bundle
       Dependencies: {}
-    Info_58:
+    Info_59:
       Name: assetspackage_share_assets_usingassets_effect_btns.bundle
       Dependencies: {}
-    Info_59:
+    Info_60:
       Name: assetspackage_share_assets_usingassets_sprites_album_chapteralbum.bundle
       Dependencies: {}
-    Info_60:
+    Info_61:
       Name: assetspackage_share_assets_usingassets_effect_cursoreffect.bundle
       Dependencies: {}
-    Info_61:
+    Info_62:
       Name: assetspackage_share_assets_usingassets_effect_chestopeneffect_equipchest.bundle
       Dependencies: {}
-    Info_62:
+    Info_63:
       Name: assetspackage_share_assets_usingassets_audioclip_sound_common.bundle
       Dependencies: {}
-    Info_63:
+    Info_64:
       Name: assetspackage_share_assets_usingassets_effect_light.bundle
       Dependencies: {}
-    Info_64:
+    Info_65:
       Name: assetspackage_share_assets_usingassets_sprites_album_chestalbum.bundle
       Dependencies: {}
-    Info_65:
+    Info_66:
       Name: assetspackage_share_assets_usingassets_sprites_album_maskbgalbum.bundle
       Dependencies: {}
-    Info_66:
+    Info_67:
       Name: assetspackage_share_assets_usingassets_effect_equiplevelup.bundle
       Dependencies:
         Dependency_0: assetspackage_share_assets_usingassets_skills_elementalarrow_physics.bundle
-    Info_67:
+    Info_68:
       Name: assetspackage_share_assets_usingassets_sprites_album_avataralbum.bundle
       Dependencies: {}
-    Info_68:
+    Info_69:
       Name: assetspackage_share_assets_usingassets_sprites_album_equipalbum_helmet.bundle
       Dependencies: {}
-    Info_69:
+    Info_70:
       Name: assetspackage_share_assets_usingassets_effect_skillupgrade.bundle
       Dependencies: {}
-    Info_70:
-      Name: assetspackage_share_assets_usingassets_sprites_album_lobbyitemalbum.bundle
-      Dependencies: {}
     Info_71:
-      Name: assetspackage_share_assets_usingassets_effect_sizeeffect.bundle
+      Name: assetspackage_share_assets_usingassets_sprites_album_lobbyitemalbum.bundle
       Dependencies: {}
     Info_72:
       Name: assetspackage_share_assets_usingassets_sprites_album_equipalbum_weapons.bundle

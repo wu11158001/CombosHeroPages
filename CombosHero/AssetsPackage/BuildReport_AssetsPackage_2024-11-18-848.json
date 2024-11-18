@@ -2,13 +2,13 @@
     "Summary": {
         "YooVersion": "2.1.1",
         "UnityVersion": "2021.3.43f1",
-        "BuildDate": "2024/11/17 上午 07:06:11",
-        "BuildSeconds": 24,
+        "BuildDate": "2024/11/18 下午 02:09:06",
+        "BuildSeconds": 27,
         "BuildTarget": 13,
         "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildPackageName": "AssetsPackage",
-        "BuildPackageVersion": "2024-11-17-425",
+        "BuildPackageVersion": "2024-11-18-848",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -21,10 +21,10 @@
         "CompressOption": 2,
         "DisableWriteTypeTree": false,
         "IgnoreTypeTreeChanges": true,
-        "AssetFileTotalCount": 666,
+        "AssetFileTotalCount": 668,
         "MainAssetTotalCount": 75,
         "AllBundleTotalCount": 91,
-        "AllBundleTotalSize": 84181344,
+        "AllBundleTotalSize": 84182019,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -311,7 +311,7 @@
             "AssetGUID": "0b5d617c5a1041841a9bb45d24719249",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 33274,
+            "MainBundleSize": 33669,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/FrameSquareOrange.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -332,7 +332,7 @@
             "AssetGUID": "8d83ac8c0958b0346a2653ed307def66",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 33274,
+            "MainBundleSize": 33669,
             "DependAssets": [
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
@@ -351,7 +351,7 @@
             "AssetGUID": "28664fd95f6685e4f91eb39307bb4914",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 33274,
+            "MainBundleSize": 33669,
             "DependAssets": [
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
@@ -368,7 +368,7 @@
             "AssetGUID": "3e9a18fbb424cb04f9f532be950ff844",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 33274,
+            "MainBundleSize": 33669,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/BarBg.png",
                 "Assets/UsingAssets/Sprites/Album/EquipAlbum/TypeIcon/ArmorIcon.png",
@@ -396,7 +396,7 @@
             "AssetGUID": "b423ae866da833b4281abffa546b7635",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 33274,
+            "MainBundleSize": 33669,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/FrameSquareYellow.png"
             ]
@@ -407,7 +407,7 @@
             "AssetGUID": "4fb5b533ca31ea940a9870a2fa03435b",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 33274,
+            "MainBundleSize": 33669,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Line1.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -427,8 +427,10 @@
             "AssetGUID": "e512e56de4b6fd84ebc5c1132f39eaee",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 33274,
+            "MainBundleSize": 33669,
             "DependAssets": [
+                "Assets/UsingAssets/Effect/SizeEffect/NoviceTeaching.controller",
+                "Assets/UsingAssets/Effect/SizeEffect/NoviceTeaching.anim",
                 "Assets/UsingAssets/Material/NoviceTeaching.mat",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
@@ -448,7 +450,7 @@
             "AssetGUID": "bf01bb97606c7cb49a5bd2252ed3658d",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 33274,
+            "MainBundleSize": 33669,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/UI/FrameSquareOrange.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
@@ -466,7 +468,7 @@
             "AssetGUID": "78bc16bcc237ff24fa69c74130cd103b",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 33274,
+            "MainBundleSize": 33669,
             "DependAssets": [
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
                 "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
@@ -486,7 +488,7 @@
             "AssetGUID": "a4496b7d8a78afb4b9aa5c1d7aacff76",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 33274,
+            "MainBundleSize": 33669,
             "DependAssets": [
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
                 "Assets/UsingAssets/Sprites/Community/UI/SkillBg.png",
@@ -502,7 +504,7 @@
             "AssetGUID": "cdc2212d63506cb4891d4e04ec4856ed",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 33274,
+            "MainBundleSize": 33669,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/TipBg.png",
                 "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
@@ -514,7 +516,7 @@
             "AssetGUID": "aab50603535630740901f7ae5bb13fea",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 33274,
+            "MainBundleSize": 33669,
             "DependAssets": [
                 "Assets/UsingAssets/Sprites/Community/Other/Point.png",
                 "Assets/UsingAssets/Sprites/Community/UI/FrameSquareOrange.png",
@@ -534,7 +536,7 @@
             "AssetGUID": "a1ca8637f0e0b464583554dc152e2657",
             "AssetTags": [],
             "MainBundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "MainBundleSize": 33274,
+            "MainBundleSize": 33669,
             "DependAssets": [
                 "Assets/UsingAssets/Monster/M_Thunder1/Move/10.png",
                 "Assets/UsingAssets/Monster/M_Thunder1/Move/07.png",
@@ -2183,15 +2185,16 @@
         },
         {
             "BundleName": "assetspackage_assets_hotfixassets_prefab_view_common.bundle",
-            "FileName": "530588011c299d600b72ed583e1e936f.bundle",
-            "FileHash": "530588011c299d600b72ed583e1e936f",
-            "FileCRC": "fa4ee864",
-            "FileSize": 33274,
+            "FileName": "3e893e4511e7cdda58b3056b7563ff74.bundle",
+            "FileHash": "3e893e4511e7cdda58b3056b7563ff74",
+            "FileCRC": "5ef0cb43",
+            "FileSize": 33669,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
                 "assetspackage_share_assets_textmesh pro_fonts.bundle",
                 "assetspackage_share_assets_textmesh pro_resources_fonts & materials.bundle",
+                "assetspackage_share_assets_usingassets_effect_sizeeffect.bundle",
                 "assetspackage_share_assets_usingassets_material.bundle",
                 "assetspackage_share_assets_usingassets_monster_m_flame1_move.bundle",
                 "assetspackage_share_assets_usingassets_monster_m_ice1_move.bundle",
@@ -2631,10 +2634,10 @@
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_material.bundle",
-            "FileName": "22f73f8d33f1fd592bbad025e8e2dc76.bundle",
-            "FileHash": "22f73f8d33f1fd592bbad025e8e2dc76",
-            "FileCRC": "f68316eb",
-            "FileSize": 3090,
+            "FileName": "151a047fc30ece60cf3e75345f7ec11e.bundle",
+            "FileHash": "151a047fc30ece60cf3e75345f7ec11e",
+            "FileCRC": "d4e1ac10",
+            "FileSize": 3083,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [
@@ -3130,6 +3133,22 @@
             ]
         },
         {
+            "BundleName": "assetspackage_share_assets_usingassets_effect_sizeeffect.bundle",
+            "FileName": "661578e0423b5d5d3a5536518b8b259d.bundle",
+            "FileHash": "661578e0423b5d5d3a5536518b8b259d",
+            "FileCRC": "a4427233",
+            "FileSize": 9602,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/UsingAssets/Effect/SizeEffect/NoviceTeaching.controller",
+                "Assets/UsingAssets/Effect/SizeEffect/NoviceTeaching.anim",
+                "Assets/UsingAssets/Effect/SizeEffect/Quests.anim",
+                "Assets/UsingAssets/Effect/SizeEffect/Quests.controller"
+            ]
+        },
+        {
             "BundleName": "assetspackage_share_assets_usingassets_sprites_lobby.bundle",
             "FileName": "a710133318ffa748e03b43cd70c7af79.bundle",
             "FileHash": "a710133318ffa748e03b43cd70c7af79",
@@ -3382,10 +3401,10 @@
         },
         {
             "BundleName": "assetspackage_share_assets_usingassets_effect_chestopeneffect_equipchest.bundle",
-            "FileName": "51f530e6ba8e15c5af4a4403e2b9bc38.bundle",
-            "FileHash": "51f530e6ba8e15c5af4a4403e2b9bc38",
-            "FileCRC": "440e5345",
-            "FileSize": 9504,
+            "FileName": "2bcb2cac216f1774b65e69f6cabc9574.bundle",
+            "FileHash": "2bcb2cac216f1774b65e69f6cabc9574",
+            "FileCRC": "0f8c31d8",
+            "FileSize": 9512,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -3592,20 +3611,6 @@
                 "Assets/UsingAssets/Sprites/Album/LobbyItemAlbum/Battle.png",
                 "Assets/UsingAssets/Sprites/Album/LobbyItemAlbum/Research.png",
                 "Assets/UsingAssets/Sprites/Album/LobbyItemAlbum/Market.png"
-            ]
-        },
-        {
-            "BundleName": "assetspackage_share_assets_usingassets_effect_sizeeffect.bundle",
-            "FileName": "83412df00d38cba9001814093ca18856.bundle",
-            "FileHash": "83412df00d38cba9001814093ca18856",
-            "FileCRC": "84d47f7b",
-            "FileSize": 9323,
-            "Encrypted": false,
-            "Tags": [],
-            "DependBundles": [],
-            "AllBuiltinAssets": [
-                "Assets/UsingAssets/Effect/SizeEffect/Quests.anim",
-                "Assets/UsingAssets/Effect/SizeEffect/Quests.controller"
             ]
         },
         {
